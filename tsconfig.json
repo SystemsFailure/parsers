@@ -1,0 +1,77 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "forceConsistentCasingInFileNames": false,
+    "noFallthroughCasesInSwitch": false,
+    "paths": {
+      "@app/playwright": [
+        "libs/playwright/src"
+      ],
+      "@app/playwright/*": [
+        "libs/playwright/src/*"
+      ],
+      "@app/proxy-servers": [
+        "libs/proxy-servers/src"
+      ],
+      "@app/proxy-servers/*": [
+        "libs/proxy-servers/src/*"
+      ],
+      "@app/rent-object": [
+        "libs/rent-object/src"
+      ],
+      "@app/rent-object/*": [
+        "libs/rent-object/src/*"
+      ],
+      "@app/rent-object-checker": [
+        "libs/rent-object-checker/src"
+      ],
+      "@app/rent-object-checker/*": [
+        "libs/rent-object-checker/src/*"
+      ],
+      "@app/flags": [
+        "libs/flags/src"
+      ],
+      "@app/flags/*": [
+        "libs/flags/src/*"
+      ],
+      "@app/job-runner": [
+        "libs/job-runner/src"
+      ],
+      "@app/job-runner/*": [
+        "libs/job-runner/src/*"
+      ],
+      "@app/geocord": [
+        "libs/geocord/src"
+      ],
+      "@app/geocord/*": [
+        "libs/geocord/src/*"
+      ],
+      "@app/logger": [
+        "libs/logger/src"
+      ],
+      "@app/logger/*": [
+        "libs/logger/src/*"
+      ],
+      "@app/rent-object-photos": [
+        "libs/rent-object-photos/src"
+      ],
+      "@app/rent-object-photos/*": [
+        "libs/rent-object-photos/src/*"
+      ]
+    }
+  }
+}

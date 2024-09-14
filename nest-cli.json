@@ -1,0 +1,140 @@
+{
+  "$schema": "https://json.schemastore.org/nest-cli",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "apps/avito/src",
+  "compilerOptions": {
+    "deleteOutDir": true,
+    "webpack": true,
+    "tsConfigPath": "apps/avito/tsconfig.app.json"
+  },
+  "monorepo": true,
+  "root": "apps/avito",
+  "projects": {
+    "avito": {
+      "type": "application",
+      "root": "apps/avito",
+      "entryFile": "main",
+      "sourceRoot": "apps/avito/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/avito/tsconfig.app.json"
+      }
+    },
+    "cian": {
+      "type": "application",
+      "root": "apps/cian",
+      "entryFile": "main",
+      "sourceRoot": "apps/cian/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/cian/tsconfig.app.json"
+      }
+    },
+    "domria": {
+      "type": "application",
+      "root": "apps/domria",
+      "entryFile": "main",
+      "sourceRoot": "apps/domria/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/domria/tsconfig.app.json"
+      }
+    },
+    "olx": {
+      "type": "application",
+      "root": "apps/olx",
+      "entryFile": "main",
+      "sourceRoot": "apps/olx/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/olx/tsconfig.app.json"
+      }
+    },
+    "youla": {
+      "type": "application",
+      "root": "apps/youla",
+      "entryFile": "main",
+      "sourceRoot": "apps/youla/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/youla/tsconfig.app.json"
+      }
+    },
+    "playwright": {
+      "type": "library",
+      "root": "libs/playwright",
+      "entryFile": "index",
+      "sourceRoot": "libs/playwright/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/playwright/tsconfig.lib.json"
+      }
+    },
+    "proxy-servers": {
+      "type": "library",
+      "root": "libs/proxy-servers",
+      "entryFile": "index",
+      "sourceRoot": "libs/proxy-servers/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/proxy-servers/tsconfig.lib.json"
+      }
+    },
+    "rent-object": {
+      "type": "library",
+      "root": "libs/rent-object",
+      "entryFile": "index",
+      "sourceRoot": "libs/rent-object/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/rent-object/tsconfig.lib.json"
+      }
+    },
+    "rent-object-checker": {
+      "type": "library",
+      "root": "libs/rent-object-checker",
+      "entryFile": "index",
+      "sourceRoot": "libs/rent-object-checker/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/rent-object-checker/tsconfig.lib.json"
+      }
+    },
+    "flags": {
+      "type": "library",
+      "root": "libs/flags",
+      "entryFile": "index",
+      "sourceRoot": "libs/flags/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/flags/tsconfig.lib.json"
+      }
+    },
+    "job-runner": {
+      "type": "library",
+      "root": "libs/job-runner",
+      "entryFile": "index",
+      "sourceRoot": "libs/job-runner/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/job-runner/tsconfig.lib.json"
+      }
+    },
+    "geocord": {
+      "type": "library",
+      "root": "libs/geocord",
+      "entryFile": "index",
+      "sourceRoot": "libs/geocord/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/geocord/tsconfig.lib.json"
+      }
+    },
+    "logger": {
+      "type": "library",
+      "root": "libs/logger",
+      "entryFile": "index",
+      "sourceRoot": "libs/logger/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/logger/tsconfig.lib.json"
+      }
+    },
+    "rent-object-photos": {
+      "type": "library",
+      "root": "libs/rent-object-photos",
+      "entryFile": "index",
+      "sourceRoot": "libs/rent-object-photos/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/rent-object-photos/tsconfig.lib.json"
+      }
+    }
+  }
+}

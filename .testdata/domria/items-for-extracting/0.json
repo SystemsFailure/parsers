@@ -1,0 +1,1211 @@
+{
+  "name": "Долгосрочная аренда 1к квартиры на ул. Набережно-Крещатицкая 35",
+  "url": "https://dom.ria.com/uk/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+  "item": {
+    "is_show_building_no": 1,
+    "partner_id": 2,
+    "realty_sale_type": 1,
+    "sleeps_count": 2,
+    "web_id": "ad6c2d3b63c8bb6f",
+    "currency_type": "грн",
+    "photos_count": 9,
+    "user_id": 11430699,
+    "publishing_date_ts": 1716825443,
+    "longitude": 30.52214968,
+    "advert_publish_type": 1,
+    "floors_count": 5,
+    "quality": 77,
+    "state_name": "Киевская",
+    "latitude": 50.47014181,
+    "moderation_date_ts": 1716825447,
+    "price_item": 714,
+    "street_name": "ул. Набережно-Крещатицкая",
+    "price": 20000,
+    "city_name": "Киев",
+    "location": "50.47014181,30.52214968",
+    "is_calltracking": 0,
+    "characteristics_values": {},
+    "state_name_uk": "Київська",
+    "city_id": 10,
+    "realty_type_name": "Квартира",
+    "photos": {
+      "297730797": {
+        "id": 297730797,
+        "ordering": 4,
+        "parent_photo_id": 297730797,
+        "file": "dom/photo/29773/2977307/297730797/297730797.jpg"
+      },
+      "297730846": {
+        "id": 297730846,
+        "ordering": 3,
+        "parent_photo_id": 297730846,
+        "file": "dom/photo/29773/2977308/297730846/297730846.jpg"
+      },
+      "297730853": {
+        "id": 297730853,
+        "ordering": 1,
+        "parent_photo_id": 297730853,
+        "file": "dom/photo/29773/2977308/297730853/297730853.jpg"
+      },
+      "297730859": {
+        "id": 297730859,
+        "ordering": 2,
+        "parent_photo_id": 297730859,
+        "file": "dom/photo/29773/2977308/297730859/297730859.jpg"
+      },
+      "297730871": {
+        "id": 297730871,
+        "ordering": 5,
+        "parent_photo_id": 297730871,
+        "file": "dom/photo/29773/2977308/297730871/297730871.jpg"
+      }
+    },
+    "is_commercial": 0,
+    "show_on_map": 1,
+    "realty_id": 31611476,
+    "district_id": 15188,
+    "total_square_meters": 28,
+    "quadrants": {
+      "zoom_7": "74_43",
+      "zoom_6": "37_21",
+      "zoom_9": "299_172",
+      "zoom_8": "149_86",
+      "zoom_18": "153297_88369",
+      "zoom_15": "19162_11046",
+      "zoom_16": "38324_22092",
+      "zoom_14": "9581_5523",
+      "zoom_17": "76648_44184",
+      "zoom_11": "1197_690",
+      "zoom_10": "598_345",
+      "zoom_12": "2395_1380",
+      "zoom_13": "4790_2761"
+    },
+    "add_form_version": 2,
+    "rooms_count": 1,
+    "state_id": 10,
+    "currency_type_id": 3,
+    "price_total": 20000,
+    "realty_type_parent_name": "Жилье",
+    "realty_type_id": 2,
+    "street_id": 5454,
+    "city_name_uk": "Київ",
+    "district_type_name": "Район",
+    "floor": 3,
+    "building_entity_id": "63220564393d4863f27d4959",
+    "main_photo": "dom/photo/29773/2977308/297730853/297730853.jpg",
+    "metro_station_id": 6,
+    "district_name": "Подольский",
+    "district_name_uk": "Подільський",
+    "advert_type_name": "долгосрочная аренда",
+    "is_exclusive": 0,
+    "rangeFactorTopQuality": 1716825321,
+    "youtube_link": "",
+    "complete_time": 1508.621,
+    "metro_station_brunch": 2,
+    "description_uk": "Довгострокова оренда 1 к квартири.\nКвартира з ремонтом, є все необхідне.\nГарна інфраструктура,  у дворі дитячий майданчик, спокійний район, у сусідньому будинку - посольство Іспанії, нова пошта, поруч набережна, магазини та ресторанчики.\nДодаткові запитання по телефону",
+    "building_number_str": "35",
+    "district_type_id": 1,
+    "osm_building_id": 45442936,
+    "metro_station_name": "Контрактовая площадь",
+    "free_publicate": 5,
+    "publishing_date": "2024-05-27 18:57:23",
+    "realty_type_parent_id": 1,
+    "description": "Долгосрочная аренда 1к квартиры.\nКвартира с ремонтом, есть всё необходимое.\nХорошая инфраструктура, во дворе детская площадка, спокойный район, в соседнем доме  посольство Испании, новая почта, рядом набережная, магазины и ресторанчики.\nДополнительные вопросы по телефону",
+    "advert_type_id": 3,
+    "beautiful_url": "realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+    "realtorVerified": false,
+    "agencyVerified": false,
+    "priceArr": {
+      "1": "492",
+      "2": "452",
+      "3": "20 000"
+    },
+    "priceItemArr": {
+      "1": 18,
+      "2": 16,
+      "3": 714
+    },
+    "call_price": 0,
+    "is_developer": 0,
+    "secondaryUtp": ["В центре", "Спокойный район", "Тихий двор"],
+    "isNotepad": false,
+    "building_number_for_map": "35",
+    "publishing_date_info": "Опубликовано 4 минуты назад",
+    "isBinotel": 0,
+    "type": "bu"
+  },
+  "initstate": {
+    "user": null,
+    "userSegment": {},
+    "package": {},
+    "awaitPackagePromise": null,
+    "balance": {},
+    "isMobile": false,
+    "noty": null,
+    "favCount": null,
+    "savedSearchesCount": null,
+    "lastSearchesCount": null,
+    "lastWatchedCount": null,
+    "phoneOpeningCount": null,
+    "superUser": false,
+    "params": {
+      "viewRandom": 684329077657,
+      "showGDPR": false,
+      "siteName": "DOM.RIA.com",
+      "host": "https://dom.ria.com",
+      "dateFormat": "DD.MM.YYYY",
+      "jsDomain": "https://dom.riastatic.com",
+      "imgCdnDomain": "https://cdn.riastatic.com",
+      "minisiteDomain": "ria.biz",
+      "metaImg": "https://dom.riastatic.com/css/images/common/share/share.png?v=1",
+      "mapStyleUk": "https://dom.ria.com/node/api/getMapStyles?v=3&u=6",
+      "mapStyleTest": "https://dom.ria.com/node/api/getMapStyles?v=3&u=6",
+      "logo": {
+        "defaultPath": "https://dom.riastatic.com/css/images/dimria.png",
+        "specialPath": "https://dom.riastatic.com/css/images/domria.gif",
+        "specialFrom": "2016-12-24",
+        "specialTo": "2017-01-16"
+      },
+      "cookies": "ui=b96b812c17c515f4; __uzma=e792bc0f-493e-48f8-9372-cf41e644b700; __uzmb=1710832891; __uzme=4175; _gcl_au=1.1.1423593237.1710832921; _ga=GA1.1.1182535419.1710832922; _ga=GA1.3.1182535419.1710832922; _fbp=fb.1.1710832923118.299062354; _clck=v0qnvf%7C2%7Cfk7%7C0%7C1539; gdpr=[2,3]; isSessionActive=1; PHPSESSID=i8th1ce9qcs1s252oadlshc2g6; __utma=192842303.1182535419.1710832922.1710840583.1710840583.1; __utmc=192842303; __utmz=192842303.1710840583.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _hjSessionUser_3709490=eyJpZCI6IjZkNjlkOThiLTJlMzMtNWFhYy05MjQ3LTE0ZmY0NDZhNTZhYSIsImNyZWF0ZWQiOjE3MTA4MzI5MjMyNDcsImV4aXN0aW5nIjp0cnVlfQ==; lang_id=2; referrerId=11; _gid=GA1.3.566234807.1711003062; lang=ru; dom_sess=zRj2iDGWgxxxZDhPa8rCj8xygqEOL8qu; lastRealtyId=14349096; g_state={\"i_p\":1711608262025,\"i_l\":3}; __uzmc=535889135664; __uzmd=1711008343; ref=mf; refferalId=32; pageCount=49; _ga_HJZP5P77GH=GS1.1.1711008350.5.1.1711008733.59.0.669713453; _gat_UA-87766776-1=1",
+      "ipCityId": "0",
+      "ipStateId": "0",
+      "isSessionActive": "1",
+      "ip": "176.226.159.139",
+      "isWebpAvailable": true,
+      "isTest": false,
+      "apiKey": "5054dc482da29bdd62aae36417306e3e",
+      "ipCountry": "RU"
+    },
+    "currencies": {},
+    "counts": {},
+    "chat": {
+      "hasChat": false,
+      "unread": 0
+    },
+    "employees": [],
+    "states": [],
+    "cities": [],
+    "districts": [],
+    "bus": {
+      "utmForSlonEvents": {},
+      "isFullscreenMap": false
+    },
+    "geoCity": {
+      "genitive": "",
+      "cityID": 0
+    },
+    "bookmarks": [],
+    "userRkBalance": null,
+    "userRkBalanceStatus": null,
+    "userAuctionRate": 0,
+    "serverStatus": 200,
+    "buyLevelTopRealty": {},
+    "isReceivedUserPackage": false,
+    "realtor": {
+      "viewData": {}
+    },
+    "agency": {},
+    "listing": {
+      "data": {
+        "realty": {
+          "is_show_building_no": 1,
+          "partner_id": 2,
+          "realty_sale_type": 1,
+          "sleeps_count": 2,
+          "web_id": "ad6c2d3b63c8bb6f",
+          "currency_type": "грн",
+          "photos_count": 9,
+          "user_id": 11430699,
+          "publishing_date_ts": 1716825443,
+          "longitude": 30.52214968,
+          "advert_publish_type": 1,
+          "floors_count": 5,
+          "quality": 77,
+          "state_name": "Киевская",
+          "latitude": 50.47014181,
+          "updated_at_ts": 1716825447,
+          "moderation_date_ts": 1716825447,
+          "price_item": 714,
+          "street_name_uk": "Набережно-Хрещатицька вулиця",
+          "created_at_ts": 1716825319,
+          "street_name": "Набережно-Крещатицкая улица",
+          "realty_type_name_uk": "Квартира",
+          "realty_type_parent_name_uk": "Житло",
+          "price": 20000,
+          "city_name": "Киев",
+          "location": "50.47014181,30.52214968",
+          "is_calltracking": 0,
+          "characteristics_values": {
+            "118": 108,
+            "209": 1,
+            "212": 2,
+            "214": 28,
+            "216": 17,
+            "218": 5,
+            "227": 3,
+            "228": 5,
+            "235": 20000,
+            "246": 244,
+            "254": 278,
+            "516": 508,
+            "629": 626,
+            "686": 684,
+            "692": 689,
+            "709": 705,
+            "779": 779,
+            "879": 875,
+            "892": 890,
+            "907": 902,
+            "941": 942,
+            "1001": 1001,
+            "1017": 1017,
+            "1141": 1137,
+            "1357": 1353,
+            "1437": 1436,
+            "1479": 1479,
+            "1575": 1575,
+            "1580": 1580,
+            "1581": 1581,
+            "1650": 1648,
+            "1798": 1798,
+            "1799": 1799,
+            "1803": 1803,
+            "2000": 1998
+          },
+          "state_name_uk": "Київська",
+          "moderation_date": "2024-05-27 18:57:27",
+          "city_id": 10,
+          "realty_type_name": "Квартира",
+          "photos": [
+            {
+              "id": 297730853,
+              "ordering": 1,
+              "parent_photo_id": 297730853,
+              "file": "dom/photo/29773/2977308/297730853/297730853.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730853.jpg"
+            },
+            {
+              "id": 297730859,
+              "ordering": 2,
+              "parent_photo_id": 297730859,
+              "file": "dom/photo/29773/2977308/297730859/297730859.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730859.jpg"
+            },
+            {
+              "id": 297730846,
+              "ordering": 3,
+              "parent_photo_id": 297730846,
+              "file": "dom/photo/29773/2977308/297730846/297730846.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730846.jpg"
+            },
+            {
+              "id": 297730797,
+              "ordering": 4,
+              "parent_photo_id": 297730797,
+              "file": "dom/photo/29773/2977307/297730797/297730797.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730797.jpg"
+            },
+            {
+              "id": 297730871,
+              "ordering": 5,
+              "parent_photo_id": 297730871,
+              "file": "dom/photo/29773/2977308/297730871/297730871.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730871.jpg"
+            },
+            {
+              "id": 297730873,
+              "ordering": 6,
+              "parent_photo_id": 297730873,
+              "file": "dom/photo/29773/2977308/297730873/297730873.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730873.jpg"
+            },
+            {
+              "id": 297730876,
+              "ordering": 7,
+              "parent_photo_id": 297730876,
+              "file": "dom/photo/29773/2977308/297730876/297730876.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730876.jpg"
+            },
+            {
+              "id": 297730889,
+              "ordering": 8,
+              "parent_photo_id": 297730889,
+              "file": "dom/photo/29773/2977308/297730889/297730889.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730889.jpg"
+            },
+            {
+              "id": 297730839,
+              "ordering": 9,
+              "parent_photo_id": 297730839,
+              "file": "dom/photo/29773/2977308/297730839/297730839.jpg",
+              "beautifulUrl": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730839.jpg"
+            }
+          ],
+          "moderator_id": 5,
+          "date_end_ts": 1717430243,
+          "wall_type_uk": "цегла",
+          "is_commercial": 0,
+          "show_on_map": 1,
+          "rangeFactorIns": 1716825443,
+          "realty_id": 31611476,
+          "district_id": 15188,
+          "total_square_meters": 28,
+          "quadrants": {
+            "zoom_7": "74_43",
+            "zoom_6": "37_21",
+            "zoom_9": "299_172",
+            "zoom_8": "149_86",
+            "zoom_18": "153297_88369",
+            "zoom_15": "19162_11046",
+            "zoom_16": "38324_22092",
+            "zoom_14": "9581_5523",
+            "zoom_17": "76648_44184",
+            "zoom_11": "1197_690",
+            "zoom_10": "598_345",
+            "zoom_12": "2395_1380",
+            "zoom_13": "4790_2761"
+          },
+          "date_end": "2024-06-03 18:57:23",
+          "moderated": 1,
+          "currency_type_uk": "грн",
+          "disable_comments": 1,
+          "add_form_version": 2,
+          "rooms_count": 1,
+          "state_id": 10,
+          "currency_type_id": 3,
+          "price_total": 20000,
+          "realty_type_parent_name": "Жилье",
+          "realty_type_id": 2,
+          "metro_station_name_uk": "Контрактова площа",
+          "street_id": 5454,
+          "city_name_uk": "Київ",
+          "district_type_name": "Район",
+          "floor": 3,
+          "living_square_meters": 17,
+          "building_entity_id": "63220564393d4863f27d4959",
+          "main_photo": "dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730853.jpg",
+          "user_ip": 167850786,
+          "metro_station_id": 6,
+          "district_name": "Подольский",
+          "wall_type": "кирпич",
+          "updated_at": "2024-05-27 18:57:27",
+          "district_name_uk": "Подільський",
+          "advert_type_name": "долгосрочная аренда",
+          "is_exclusive": 0,
+          "rangeFactorTopQuality": 1716825321,
+          "youtube_link": "",
+          "complete_time": 1508.621,
+          "metro_station_brunch": 2,
+          "description_uk": "Довгострокова оренда 1 к квартири.\nКвартира з ремонтом, є все необхідне.\nГарна інфраструктура,  у дворі дитячий майданчик, спокійний район, у сусідньому будинку - посольство Іспанії, нова пошта, поруч набережна, магазини та ресторанчики.\nДодаткові запитання по телефону",
+          "building_number_str": "35",
+          "kitchen_square_meters": 5,
+          "district_type_id": 1,
+          "advert_type_name_uk": "довгострокова оренда",
+          "osm_building_id": 45442936,
+          "user_package_id": 0,
+          "metro_station_name": "Контрактовая площадь",
+          "free_publicate": 5,
+          "publishing_date": "2024-05-27 18:57:23",
+          "realty_type_parent_id": 1,
+          "description": "Долгосрочная аренда 1к квартиры.\nКвартира с ремонтом, есть всё необходимое.\nХорошая инфраструктура, во дворе детская площадка, спокойный район, в соседнем доме  посольство Испании, новая почта, рядом набережная, магазины и ресторанчики.\nДополнительные вопросы по телефону",
+          "advert_type_id": 3,
+          "beautiful_url": "realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+          "created_at": "2024-05-27 18:55:19",
+          "admin_district_id": 0,
+          "priceObj": {
+            "priceUSD": "492",
+            "priceEUR": "452",
+            "priceUAH": "20 000"
+          },
+          "priceArr": {
+            "1": "492",
+            "2": "452",
+            "3": "20 000"
+          },
+          "priceArrText": {
+            "total": "за месяц",
+            "item": "",
+            "showPriceItem": false
+          },
+          "priceItem": "714",
+          "digitalInspection": {},
+          "chatUrl": "https://chat.ria.com/2/31611476?secure=58985e3e741138aae1a95b66b3c9bd9e&lang_id=2",
+          "isBinotelOwner": 0,
+          "imgAlt": "однокомнатная квартира с ремонтом в Киеве, район Подольский, на ул. Набережно-Крещатицкая 35 в аренду на долгий срок помесячно",
+          "imgTitle": "однокомнатная квартира с ремонтом в Киеве, район Подольский, на ул. Набережно-Крещатицкая 35 в аренду на долгий срок помесячно",
+          "metaImg": "https://cdn.riastatic.com/photosnew/dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730853f.jpg",
+          "isNotepad": false,
+          "secondaryParams": [
+            {
+              "groupName": "Особенности планировки",
+              "prio": 1000,
+              "items": [
+                {
+                  "label": "с ремонтом",
+                  "id": 1479
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Характеристика помещения",
+              "prio": 288,
+              "items": [
+                {
+                  "label": "состояние квартиры: хорошее",
+                  "id": "516"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Коммуникации",
+              "prio": 282,
+              "items": [
+                {
+                  "label": "газ: есть",
+                  "id": "629"
+                },
+                {
+                  "label": "Телевидение: кабельное",
+                  "id": "686"
+                },
+                {
+                  "label": "интернет: Wi-Fi",
+                  "id": "692"
+                },
+                {
+                  "label": "вентиляция / кондиционирование: кондиционер(ы)",
+                  "id": "709"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Двери и окна",
+              "prio": 280,
+              "items": [
+                {
+                  "label": "входная дверь: деревянная + металлическая",
+                  "id": "879"
+                },
+                {
+                  "label": "тип окон: металопластиковые",
+                  "id": "892"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Отопление",
+              "prio": 280,
+              "items": [
+                {
+                  "label": "централизованное",
+                  "id": "1575"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Подогрев воды",
+              "prio": 280,
+              "items": [
+                {
+                  "label": "централизованный",
+                  "id": "1580"
+                },
+                {
+                  "label": "бойлер",
+                  "id": "1581"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Помещения",
+              "prio": 270,
+              "items": [
+                {
+                  "label": "санузел: совмещенный",
+                  "id": "907"
+                },
+                {
+                  "label": "застекленных лоджий: 1",
+                  "id": "941"
+                },
+                {
+                  "label": "балкон(ы): 1",
+                  "id": "1357"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Оборудование / мебель / удобства",
+              "prio": 250,
+              "items": [
+                {
+                  "label": "счетчик на электричество",
+                  "id": "1001"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Подъезд",
+              "prio": 230,
+              "items": [
+                {
+                  "label": "домофон",
+                  "id": "1017"
+                }
+              ],
+              "relink": {}
+            },
+            {
+              "groupName": "Положение и окружение",
+              "prio": 190,
+              "items": [
+                {
+                  "label": "тип двора: внутренний",
+                  "id": "1141"
+                }
+              ],
+              "relink": {}
+            }
+          ],
+          "mainCharacteristics": {
+            "chars": [
+              {
+                "charId": 209,
+                "value": ["1 комната", "3 этаж из 5"],
+                "charVal": 1,
+                "group": "rooms_floors",
+                "charIds": [209, 228],
+                "relink": {
+                  "209": "/arenda-kvartir/kiev-1k/"
+                }
+              },
+              {
+                "charId": 212,
+                "value": "2 спальных места",
+                "charVal": 2,
+                "charIds": [212],
+                "relink": {}
+              },
+              {
+                "charId": 214,
+                "value": ["Общая площадь 28 м²", "жилая 17 м²", "кухня 5 м²"],
+                "charVal": 28,
+                "charIds": [214],
+                "relink": {}
+              },
+              {
+                "charId": 118,
+                "value": "Стены из кирпича",
+                "charVal": 108,
+                "charIds": [118],
+                "relink": {}
+              },
+              {
+                "charId": 1437,
+                "value": ["Предложение от собственника"],
+                "charVal": 1436,
+                "charIds": [1437],
+                "relink": {
+                  "1437": "/arenda-kvartir/kiev-bez-rieltora/"
+                }
+              },
+              {
+                "value": "Вторичная недвижимость",
+                "relink": {}
+              }
+            ],
+            "dashes": ["Вторичное жилье"],
+            "title": "Долгосрочная аренда квартиры",
+            "inspectedTitle": "Перевірена квартира",
+            "baseInfo": {
+              "p1": {
+                "label": "Комнат",
+                "value": "1",
+                "name": "Комнат"
+              },
+              "p2": {
+                "value": "28 м²",
+                "name": "Площадь",
+                "label": "Общая"
+              }
+            }
+          },
+          "relink": [],
+          "utpParams": [
+            {
+              "label": "Тихий двор",
+              "id": 1803
+            },
+            {
+              "label": "Спокойный район",
+              "id": 1799
+            },
+            {
+              "label": "В центре",
+              "id": 1798,
+              "url": "/arenda-kvartir/kiev-v-tsentre/"
+            }
+          ],
+          "polygon": "",
+          "newbuildPolygonExists": false,
+          "main_photo_format": "fl",
+          "main_photo_id": 297730853,
+          "use_webp": true,
+          "fbShareUrl": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdom.ria.com%2Fru%2Frealty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html%3Futm_source%3Dfacebook%26utm_medium%3Dshare%26utm_campaign%3Dads_secondary%26r_audience%3Dsmo%26r_source%3Dfacebook%26r_medium%3Dshare%26r_campaign%3Dads_secondary",
+          "twShareUrl": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fdom.ria.com%2Fru%2Frealty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html%3Futm_source%3Dtwitter%26utm_medium%3Dshare%26utm_campaign%3Dads_secondary%26r_audience%3Dsmo%26r_source%3Dtwitter%26r_medium%3Dshare%26r_campaign%3Dads_secondary",
+          "teShareUrl": "https://t.me/share/url?url=https%3A%2F%2Fdom.ria.com%2Fru%2Frealty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html%3Futm_source%3Dtelegram%26utm_medium%3Dshare%26utm_campaign%3Dads_secondary%26r_audience%3Dsmo%26r_source%3Dtelegram%26r_medium%3Dshare%26r_campaign%3Dads_secondary",
+          "viShareUrl": "viber://forward?text=https%3A%2F%2Fdom.ria.com%2Fru%2Frealty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html%3Futm_source%3Dviber%26utm_medium%3Dshare%26utm_campaign%3Dads_secondary%26r_audience%3Dsmo%26r_source%3Dviber%26r_medium%3Dshare%26r_campaign%3Dads_secondary",
+          "photosCount": 9,
+          "mainPhoto": "https://cdn.riastatic.com/photos/dom/photo/dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa__297730853b.jpg",
+          "title": "Р‑н. Подольский, Набережно-Крещатицкая улица, Киев, Киевская, ст.м. Контрактовая площадь, Долгосрочная аренда квартиры",
+          "created_date_norm": "27 мая",
+          "publishing_date_norm": "27 мая",
+          "publishing_date_till": "03 июн.",
+          "prices": {},
+          "status": "active",
+          "deletedByModerator": false,
+          "url": "/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+          "absoluteUrl": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+          "publishUrl": "/v2/ru/update_form/payment/31611476/",
+          "create360Url": "/ru/mypage/widgets/360/?realty_id=31611476",
+          "updateUrl": "/ru/update_realty_new/31611476/",
+          "mainParams": "Комнат 1 Площадь 28/17/5 Этаж 3/5, к",
+          "mainParamsFull": {
+            "rooms": {
+              "name_ru": "Комнат",
+              "name_uk": "Кімнат",
+              "value": "1 комната"
+            },
+            "square": {
+              "name_ru": "Площадь общая",
+              "name_uk": "Площа загальна",
+              "value": "28 м²"
+            },
+            "floor": {
+              "name_ru": "Этаж",
+              "name_uk": "Поверх",
+              "value": "3 этаж "
+            },
+            "sleeps": {
+              "name_ru": "Спальных мест",
+              "name_uk": "Спальних місць",
+              "value": "2 спальных места"
+            }
+          },
+          "fromNow": "8 минут назад",
+          "isSold": false,
+          "isActive": true,
+          "isArchive": false,
+          "isDraft": false,
+          "isOwner": false
+        },
+        "breadcrumbs": {
+          "breadItemsV2": [
+            {
+              "linkUrl": "/arenda-nedvizhimosti/",
+              "linkTitle": "Долгосрочная аренда",
+              "linkAttr": "advert_type_name",
+              "linkValue": 3,
+              "itemTitle": "Долгосрочная аренда"
+            },
+            {
+              "linkUrl": "/arenda-kvartir/",
+              "linkTitle": "Квартира",
+              "linkAttr": "realty_type_name",
+              "linkValue": 2,
+              "itemTitle": "Квартира"
+            },
+            {
+              "linkUrl": "/arenda-kvartir/obl-kievskaya/",
+              "linkTitle": "Киевская область",
+              "linkAttr": "state_name",
+              "linkValue": 10,
+              "itemTitle": "Киевская область"
+            },
+            {
+              "linkUrl": "/arenda-kvartir/kiev/",
+              "linkTitle": "Киев",
+              "linkAttr": "city_name",
+              "linkValue": 10,
+              "itemTitle": "Киев"
+            },
+            {
+              "linkUrl": "/arenda-kvartir/kiev-ul-naberezhno-kreshchatykskaia/",
+              "linkTitle": "Набережно-Крещатицкая улица",
+              "linkAttr": "street_name",
+              "linkValue": 5454,
+              "itemTitle": "Набережно-Крещатицкая улица"
+            }
+          ],
+          "h1Items": {
+            "district": {
+              "linkUrl": "/arenda-kvartir/kiev-rayon-podolskyi/",
+              "linkTitle": "район Подольский"
+            },
+            "metro": {
+              "linkUrl": "/arenda-kvartir/kiev-metro-kontraktovaya-ploshchad/",
+              "linkTitle": "метро Контрактовая площадь"
+            },
+            "state": {
+              "linkUrl": "/arenda-kvartir/obl-kievskaya/",
+              "linkTitle": "Киевская обл."
+            },
+            "city": {
+              "linkUrl": "/arenda-kvartir/kiev/",
+              "linkTitle": "Киев"
+            },
+            "street": {
+              "linkUrl": "/arenda-kvartir/kiev-ul-naberezhno-kreshchatykskaia/",
+              "linkTitle": "Набережно-Крещатицкая улица"
+            }
+          }
+        },
+        "metaTitle": "DIM.RIA – Сдам 1 комнатную квартиру, улица Набережно-Крещатицкая 35 район Подольский в Киеве с ремонтом в долгосрочную аренду, цена: 20 000 грн ID31611476",
+        "metaDescription": "Долгосрочная аренда 1к квартиры.\nКвартира с ремонтом, есть всё необходимое.\nХорошая инфраструктура, во дворе детская площадк ID31611476",
+        "hash": "225ba141069aa4f05ea1bd9592aec02d3df1ea72f72bc95594fcd3f862c05bb808ad93904392e65f816a3152f7d60ffc7f9a537f36b1d7c2132acb5fd562f1dbc0260a64850647",
+        "dfp": {
+          "realty_type": "kvartiry",
+          "advert_type": "arenda-pomesyachno",
+          "realty_class": "bu",
+          "state": 10,
+          "city": 10,
+          "price": "1-10000",
+          "newbuiding": 0
+        },
+        "tagH": "Долгосрочная аренда 1к квартиры на ул. Набережно-Крещатицкая 35",
+        "agencyOwner": {
+          "owner": {
+            "name": "олександра",
+            "avatar": null,
+            "phones": [
+              {
+                "code": "063"
+              }
+            ]
+          },
+          "agency": {}
+        },
+        "districtRate": {
+          "districtId": 15188,
+          "name": "Подольский",
+          "nameLocative": "Подольском",
+          "detailed": [
+            {
+              "key": "Зоны отдыха",
+              "value": "7.0",
+              "rateMax": 10
+            },
+            {
+              "key": "Транспорт",
+              "value": "7.1",
+              "rateMax": 10
+            },
+            {
+              "key": "Инфраструктура",
+              "value": "7.1",
+              "rateMax": 10
+            },
+            {
+              "key": "Безопасность",
+              "value": "6.8",
+              "rateMax": 10
+            },
+            {
+              "key": "Экология",
+              "value": "6.8",
+              "rateMax": 10
+            }
+          ],
+          "rate": "7.0",
+          "rateMax": 10,
+          "reviewsCount": 590,
+          "reviewReadText": "Читать все 590 отзывов →",
+          "reviewReadTextV2": "Читать все 590 отзывов",
+          "readReviewsUrl": "/ru/rate-region-stat/15188/",
+          "addReviewUrl": "/ru/rate-region/15188/"
+        },
+        "newbuildData": null,
+        "newbuildDataOptionsArr": null,
+        "otherPlansData": null,
+        "complainsList": {
+          "2": {
+            "1": "Недвижимость уже продана / сдана в аренду",
+            "2": "Недостоверные контактные данные",
+            "3": "Подозрение в мошенничестве",
+            "4": "Недостоверное описание или фото",
+            "5": "Недостоверная цена",
+            "6": "Недвижимости не существует",
+            "7": "Недвижимость под задатком",
+            "8": "Мое предложение по эксклюзивному договору",
+            "21": "Рассказал все детали об объекте по телефону",
+            "22": "Быстро ответил на звонок",
+            "23": "Был достаточно вежливым",
+            "24": "Вел себя достаточно профессионально",
+            "25": "Изъявил желание помочь с поиском недвижимости",
+            "50": "Другая причина"
+          },
+          "4": {
+            "1": "Нерухомість вже продана / здана в оренду",
+            "2": "Недостовірні контактні дані",
+            "3": "Підозра в шахрайстві",
+            "4": "Недостовірний опис чи фото",
+            "5": "Недостовірна ціна",
+            "6": "Нерухомості не існує",
+            "7": "Нерухомість під завдатком",
+            "8": "Моя пропозиція за ексклюзивним договором",
+            "21": "Розповів всі деталі про об'єкт по телефону",
+            "22": "Швидко відповів на дзвінок",
+            "23": "Був досить ввічливим",
+            "24": "Поводив себе досить професійно",
+            "25": "Виявив бажання допомогти з пошуком нерухомості",
+            "50": "Інша причина"
+          }
+        },
+        "buildingInfo": {
+          "building_id": "63220564393d4863f27d4959",
+          "streetId": 5454,
+          "buildingLocation": "ул. Набережно-Крещатицкая, 35",
+          "cityName": "Киев",
+          "districtName": "Подольский",
+          "sections": [
+            {
+              "header": "Дом",
+              "sub": [
+                {
+                  "title": "Наружная отделка из кирпича"
+                },
+                {
+                  "title": "4 подъезда"
+                },
+                {
+                  "title": "Наружное утепление отсутствует"
+                }
+              ]
+            },
+            {
+              "header": "Двор",
+              "sub": [
+                {
+                  "title": "Внутренний двор"
+                },
+                {
+                  "title": "Свободная парковка"
+                }
+              ]
+            },
+            {
+              "header": "Дополнительные удобства",
+              "sub": [
+                {
+                  "title": "Магазины промтоваров; учебные и развивающие заведения"
+                }
+              ]
+            },
+            {
+              "header": "",
+              "sub": []
+            }
+          ],
+          "geo": [
+            {
+              "y": "30.522149681685434",
+              "x": "50.47014181015568"
+            }
+          ],
+          "nearestMetro": {
+            "id": 17199,
+            "name": "Контрактова площа",
+            "type": 1,
+            "duration": 526
+          },
+          "infrastructure": [
+            {
+              "header": "Учебные заведения",
+              "cat": "educational",
+              "sub": [
+                {
+                  "id": 12086,
+                  "name": "Гетте-інститут",
+                  "type": 1,
+                  "duration": 440
+                },
+                {
+                  "id": 12155,
+                  "name": "Національний університет «Києво-Могилянська академія»",
+                  "type": 1,
+                  "duration": 600
+                },
+                {
+                  "id": 10778,
+                  "name": "Київське вище професійне училище водного транспорту",
+                  "type": 1,
+                  "duration": 713
+                }
+              ]
+            },
+            {
+              "header": "Детский сад",
+              "cat": "kindergarten",
+              "sub": [
+                {
+                  "id": 29987,
+                  "name": "Школа-дитячий садок «Поділля» вул. Щекавицька 43",
+                  "type": 1,
+                  "duration": 562
+                },
+                {
+                  "id": 29986,
+                  "name": "Школа-дитячий садок «Поділля» вул. Щекавицька 25",
+                  "type": 1,
+                  "duration": 781
+                },
+                {
+                  "id": 25515,
+                  "name": "Дитячий садок №307 «Барвінок»",
+                  "type": 1,
+                  "duration": 792
+                }
+              ]
+            },
+            {
+              "header": "ТЦ, рынок, магазины",
+              "cat": "retail",
+              "sub": [
+                {
+                  "id": 31884,
+                  "name": "Natur Boutique",
+                  "type": 1,
+                  "duration": 316
+                },
+                {
+                  "id": 28747,
+                  "name": "Сільпо",
+                  "type": 1,
+                  "duration": 366
+                },
+                {
+                  "id": 29270,
+                  "name": "ТЦ «Самсон» / Подільський Пасаж",
+                  "type": 1,
+                  "duration": 617
+                }
+              ]
+            },
+            {
+              "header": "Школа",
+              "cat": "school",
+              "sub": [
+                {
+                  "id": 11338,
+                  "name": "Коледж Києво-Могилянської академії",
+                  "type": 1,
+                  "duration": 268
+                },
+                {
+                  "id": 11490,
+                  "name": "Школа №124",
+                  "type": 1,
+                  "duration": 352
+                },
+                {
+                  "id": 11454,
+                  "name": "Школа #124",
+                  "type": 1,
+                  "duration": 396
+                }
+              ]
+            },
+            {
+              "header": "Больница",
+              "cat": "medical",
+              "sub": [
+                {
+                  "id": 18540,
+                  "name": "Adonis",
+                  "type": 1,
+                  "duration": 77
+                },
+                {
+                  "id": 30898,
+                  "name": "Farmacia",
+                  "type": 1,
+                  "duration": 358
+                },
+                {
+                  "id": 11056,
+                  "name": "Клінічна лікарня №15 Подільського району",
+                  "type": 1,
+                  "duration": 539
+                }
+              ]
+            },
+            {
+              "header": "Парковые зоны",
+              "cat": "park",
+              "sub": [
+                {
+                  "id": 11176,
+                  "name": "Самосад",
+                  "type": 1,
+                  "duration": 365
+                },
+                {
+                  "id": 11127,
+                  "name": "Іллінський сквер",
+                  "type": 1,
+                  "duration": 381
+                },
+                {
+                  "id": 27908,
+                  "name": "Парк моряків",
+                  "type": 1,
+                  "duration": 2156
+                }
+              ]
+            },
+            {
+              "header": "Транспортная развязка",
+              "cat": "stops",
+              "sub": [
+                {
+                  "id": 9279,
+                  "name": "вул. Спаська",
+                  "type": 1,
+                  "duration": 68
+                },
+                {
+                  "id": 9329,
+                  "name": "вул. Хорива",
+                  "type": 1,
+                  "duration": 98
+                },
+                {
+                  "id": 9097,
+                  "name": "вул. Набережно-Хрещатицька",
+                  "type": 1,
+                  "duration": 266
+                }
+              ]
+            },
+            {
+              "header": "Наземный паркинг",
+              "cat": "parking",
+              "sub": [
+                {
+                  "id": 30221,
+                  "name": "Паркінг",
+                  "type": 2,
+                  "duration": 413
+                },
+                {
+                  "id": 23805,
+                  "name": "Автостанція \"Київ\"",
+                  "type": 2,
+                  "duration": 616
+                },
+                {
+                  "id": 25319,
+                  "name": "Гостьовий майданчик",
+                  "type": 1,
+                  "duration": 2044
+                }
+              ]
+            }
+          ]
+        },
+        "geo": [
+          {
+            "name": "улица Набережно-Крещатицкая",
+            "type": "street"
+          },
+          {
+            "name": "район Подольский",
+            "type": "district"
+          },
+          {
+            "name": "Киев",
+            "type": "city"
+          },
+          {
+            "name": "метро Контрактовая площадь",
+            "type": "metro"
+          }
+        ],
+        "newbuildName": {
+          "name": "",
+          "url": ""
+        }
+      }
+    },
+    "catalog": {
+      "seoDataForCatalog": {},
+      "parsedParamsCatalog": {},
+      "realtyForCatalog": [],
+      "realtyCountCatalog": 0,
+      "nextPageRealtyCount": 0,
+      "planForCatalog": [],
+      "schemaForCatalog": [],
+      "seoInfoForCatalog": {},
+      "tagRelinkForCatalog": [],
+      "isEmptyCatalog": {},
+      "seoCatalogCenyMap": {},
+      "seoCatalogCenyCurrency": {},
+      "seoCatalogCenyStat": {},
+      "seoCatalogCenyParams": {},
+      "seoCatalogCenyWidgetFirst": {},
+      "seoCatalogCenyWidgetSecond": {},
+      "seoCatalogCenyTable": {},
+      "seoCatalogCenyDinamic": {},
+      "seoCatalogCenyBlocks": {},
+      "seoCatalogCenyMeta": {},
+      "seoCatalogCenySchema": {},
+      "seoCatalogCenyBreadItems": [],
+      "aboutUsData": {},
+      "seoCatalogGeoHub": {},
+      "catalogInitialParams": {},
+      "filterRelink": [],
+      "autocompleteRelink": []
+    },
+    "search": {
+      "searchForm": {},
+      "characteristics": {},
+      "resultsCount": 0,
+      "newbuilding": {},
+      "apiKey": "5054dc482da29bdd62aae36417306e3e",
+      "refreshComponentKey": 1
+    },
+    "route": {
+      "name": "finalpageV",
+      "path": "/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+      "hash": "",
+      "query": {},
+      "params": {
+        "1": "-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa",
+        "2": "",
+        "lang": "ru",
+        "id": "31611476"
+      },
+      "fullPath": "/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-naberejno-kreschatitskaya-ulitsa-31611476.html",
+      "meta": {
+        "langId": 2
+      },
+      "from": {
+        "name": null,
+        "path": "/",
+        "hash": "",
+        "query": {},
+        "params": {},
+        "fullPath": "/",
+        "meta": {}
+      }
+    }
+  }
+}

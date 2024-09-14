@@ -1,0 +1,105 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "MOCK_ALL": "true",
+        "IS_DEV": "true"
+      },
+      "name": "Debug Application - avito with mocks",
+      "args": ["${workspaceFolder}/apps/avito/src/main.ts"],
+      "runtimeArgs": [
+        "--nolazy",
+        "-r",
+        "ts-node/register",
+        "-r",
+        "tsconfig-paths/register"
+      ],
+      "sourceMaps": true,
+      "cwd": "${workspaceRoot}",
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "MOCK_ALL": "true",
+        "IS_DEV": "true"
+      },
+      "name": "Debug Application - cian with mocks",
+      "args": ["${workspaceFolder}/apps/cian/src/main.ts"],
+      "runtimeArgs": [
+        "--nolazy",
+        "-r",
+        "ts-node/register",
+        "-r",
+        "tsconfig-paths/register"
+      ],
+      "sourceMaps": true,
+      "cwd": "${workspaceRoot}",
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "MOCK_ALL": "true",
+        "IS_DEV": "true"
+      },
+      "name": "Debug Application - domria with mocks",
+      "args": ["${workspaceFolder}/apps/domria/src/main.ts"],
+      "runtimeArgs": [
+        "--nolazy",
+        "-r",
+        "ts-node/register",
+        "-r",
+        "tsconfig-paths/register"
+      ],
+      "sourceMaps": true,
+      "cwd": "${workspaceRoot}",
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "MOCK_ALL": "true",
+        "IS_DEV": "true"
+      },
+      "name": "Debug Application - olx with mocks",
+      "args": ["${workspaceFolder}/apps/olx/src/main.ts"],
+      "runtimeArgs": [
+        "--nolazy",
+        "-r",
+        "ts-node/register",
+        "-r",
+        "tsconfig-paths/register"
+      ],
+      "sourceMaps": true,
+      "cwd": "${workspaceRoot}",
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "MOCK_ALL": "true",
+        "IS_DEV": "true"
+      },
+      "name": "Debug Application - youla with mocks",
+      "args": ["${workspaceFolder}/apps/youla/src/main.ts"],
+      "runtimeArgs": [
+        "--nolazy",
+        "-r",
+        "ts-node/register",
+        "-r",
+        "tsconfig-paths/register"
+      ],
+      "sourceMaps": true,
+      "cwd": "${workspaceRoot}",
+      "outputCapture": "std"
+    }
+  ]
+}

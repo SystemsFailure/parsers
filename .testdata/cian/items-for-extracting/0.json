@@ -1,0 +1,860 @@
+{
+  "name": "Сдается 3-этажный таунхаус, 323 м²",
+  "url": "https://www.cian.ru/rent/suburban/293933482/",
+  "item": {
+    "tradingLink": null,
+    "accessType": null,
+    "offerType": "suburban",
+    "title": null,
+    "demolishedInMoscowProgramm": null,
+    "kitchenArea": null,
+    "jkUrl": null,
+    "roomsForSaleCount": null,
+    "newbuildingVasPromotion": null,
+    "isPremium": false,
+    "categoriesIds": [1000, 1100, 1120, 1123],
+    "rosreestrCheck": null,
+    "publishedUserId": 12875909,
+    "decoration": null,
+    "isRentByParts": false,
+    "isCalltrackingEnabled": true,
+    "roomsCount": null,
+    "id": 293933482,
+    "officeType": null,
+    "geo": {
+      "coordinates": {
+        "lng": 37.498717,
+        "lat": 55.710888
+      },
+      "countryId": 138,
+      "districts": [
+        {
+          "name": "Раменки",
+          "id": 120,
+          "locationId": 1,
+          "type": "raion",
+          "geoType": "district",
+          "qs": "deal_type=rent&district%5B0%5D=120&engine_version=2&offer_type=suburban&type=4",
+          "fullName": "р-н Раменки",
+          "title": "р-н Раменки",
+          "parentId": 11
+        },
+        {
+          "name": "ЗАО",
+          "id": 11,
+          "locationId": 1,
+          "type": "okrug",
+          "geoType": "district",
+          "qs": "deal_type=rent&district%5B0%5D=11&engine_version=2&offer_type=suburban&type=4",
+          "fullName": "ЗАО",
+          "title": "ЗАО",
+          "parentId": null
+        }
+      ],
+      "address": [
+        {
+          "name": "Москва",
+          "id": 1,
+          "type": "location",
+          "locationTypeId": 1,
+          "geoType": "location",
+          "qs": "deal_type=rent&engine_version=2&offer_type=suburban&region=1&type=4",
+          "shortName": "Москва",
+          "fullName": "Москва",
+          "title": "Москва",
+          "isFormingAddress": true
+        },
+        {
+          "name": "ЗАО",
+          "id": 11,
+          "type": "okrug",
+          "locationTypeId": null,
+          "geoType": "district",
+          "qs": "deal_type=rent&district%5B0%5D=11&engine_version=2&offer_type=suburban&type=4",
+          "shortName": "ЗАО",
+          "fullName": "ЗАО",
+          "title": "ЗАО",
+          "isFormingAddress": null
+        },
+        {
+          "name": "Раменки",
+          "id": 120,
+          "type": "raion",
+          "locationTypeId": null,
+          "geoType": "district",
+          "qs": "deal_type=rent&district%5B0%5D=120&engine_version=2&offer_type=suburban&type=4",
+          "shortName": "р-н Раменки",
+          "fullName": "р-н Раменки",
+          "title": "р-н Раменки",
+          "isFormingAddress": null
+        },
+        {
+          "name": "Ломоносовский проспект",
+          "id": 338,
+          "type": "metro",
+          "locationTypeId": null,
+          "geoType": "underground",
+          "qs": "deal_type=rent&engine_version=2&foot_min=25&metro%5B0%5D=338&offer_type=suburban&only_foot=2&type=4",
+          "shortName": "м. Ломоносовский проспект",
+          "fullName": "м. Ломоносовский проспект",
+          "title": "м. Ломоносовский проспект",
+          "isFormingAddress": null
+        },
+        {
+          "name": "Минская",
+          "id": 1486,
+          "type": "street",
+          "locationTypeId": null,
+          "geoType": "street",
+          "qs": "deal_type=rent&engine_version=2&offer_type=suburban&street%5B0%5D=1486&type=4",
+          "shortName": "Минская ул.",
+          "fullName": "Минская улица",
+          "title": "Минская улица",
+          "isFormingAddress": true
+        },
+        {
+          "name": "1ГК6",
+          "id": 47683,
+          "type": "house",
+          "locationTypeId": null,
+          "geoType": "house",
+          "qs": "deal_type=rent&engine_version=2&house%5B0%5D=47683&offer_type=suburban&type=4",
+          "shortName": "1ГК6",
+          "fullName": "1ГК6",
+          "title": "1ГК6",
+          "isFormingAddress": true
+        }
+      ],
+      "undergrounds": [
+        {
+          "name": "Ломоносовский проспект",
+          "id": 338,
+          "lineColor": "FFDF00",
+          "lineId": 4,
+          "isDefault": true,
+          "qs": "deal_type=rent&engine_version=2&foot_min=25&metro%5B0%5D=338&offer_type=suburban&only_foot=2&type=4",
+          "time": 16,
+          "releaseYear": null,
+          "transportType": "walk",
+          "underConstruction": false,
+          "cianId": null
+        },
+        {
+          "name": "Минская",
+          "id": 337,
+          "lineColor": "FFDF00",
+          "lineId": 4,
+          "isDefault": null,
+          "qs": "deal_type=rent&engine_version=2&foot_min=25&metro%5B0%5D=337&offer_type=suburban&only_foot=2&type=4",
+          "time": 6,
+          "releaseYear": null,
+          "transportType": "transport",
+          "underConstruction": false,
+          "cianId": null
+        },
+        {
+          "name": "Раменки",
+          "id": 339,
+          "lineColor": "FFDF00",
+          "lineId": 4,
+          "isDefault": null,
+          "qs": "deal_type=rent&engine_version=2&foot_min=25&metro%5B0%5D=339&offer_type=suburban&only_foot=2&type=4",
+          "time": 6,
+          "releaseYear": null,
+          "transportType": "transport",
+          "underConstruction": false,
+          "cianId": null
+        }
+      ],
+      "highways": [],
+      "jk": null,
+      "buildingAddress": null,
+      "railways": [
+        {
+          "name": "Матвеевская",
+          "id": 716,
+          "distance": 3,
+          "geoType": "railway",
+          "travelType": "byCar",
+          "directionIds": [14],
+          "time": 6,
+          "qs": "deal_type=rent&engine_version=2&offer_type=suburban&railway%5B0%5D=716&type=4"
+        },
+        {
+          "name": "Москва-Сортировочная",
+          "id": 706,
+          "distance": 5,
+          "geoType": "railway",
+          "travelType": "byCar",
+          "directionIds": [14],
+          "time": 9,
+          "qs": "deal_type=rent&engine_version=2&offer_type=suburban&railway%5B0%5D=706&type=4"
+        },
+        {
+          "name": "Фили",
+          "id": 708,
+          "distance": 6,
+          "geoType": "railway",
+          "travelType": "byCar",
+          "directionIds": [11],
+          "time": 11,
+          "qs": "deal_type=rent&engine_version=2&offer_type=suburban&railway%5B0%5D=708&type=4"
+        }
+      ],
+      "userInput": "Москва, Минская улица, 1Гк6",
+      "sortedGeoIds": [
+        {
+          "type": "underground",
+          "id": 338
+        },
+        {
+          "type": "underground",
+          "id": 337
+        },
+        {
+          "type": "underground",
+          "id": 339
+        },
+        {
+          "type": "railway",
+          "id": 716
+        },
+        {
+          "type": "railway",
+          "id": 706
+        },
+        {
+          "type": "railway",
+          "id": 708
+        },
+        {
+          "type": "district",
+          "id": 120
+        },
+        {
+          "type": "district",
+          "id": 11
+        }
+      ]
+    },
+    "bedroomsCount": 3,
+    "balconiesCount": null,
+    "isNew": false,
+    "description": "ПРЯМОЙ ПРЕДСТАВИТЕЛЬ СОБСТВЕННИКА! БОНУС БРОКЕРАМ 50! \nЖК Золотые Ключи-2 с благоустроенной территорией со своим зоопарком, фитнес-центром, магазинами и салонами красоты. Предлагается в аренду стильная квартира (формат таунхауса).\nФункциональная планировка: 1 этаж: просторный холл, отдельный вход в комнату для персонала, основной холл, гостиная, кухня, выход на террасу, СУ.\n2 этаж: спальня с выходом на балкон, оборудованный кабинет с выходом на балкон, комната для приема гостей с выходом на балкон, гостевой с/у.\n3 этаж: детская спальня с 2х-уровневой кроватью, 2х-уровневая детская игровая, детский с/у,  основная спальня с выходом на балкон, гардеробной и собственным с/у.\nЦокольный этаж: SPA-зона с сауной и джакузи, комната отдыха, котельная, построчная комната, гардеробная комната.\nВеликолепный вариант квартиры-таунхауса в городе в экологически-чистом месте.",
+    "similar": null,
+    "formattedShortPrice": "650 000 ₽/мес.",
+    "userId": 12875909,
+    "discount": null,
+    "coworking": null,
+    "isStandard": false,
+    "allFromOffrep": null,
+    "isNeedHideExactAddress": false,
+    "addedTimestamp": 1716567652,
+    "showWarningMessage": false,
+    "villageMortgageAllowed": false,
+    "humanizedTimedelta": "три дня назад",
+    "offerInDeal": false,
+    "moderationInfo": {
+      "warningMessage": null,
+      "showContactWarningMessage": false,
+      "photoStub": null
+    },
+    "permittedUseType": null,
+    "isColorized": false,
+    "photos": [
+      {
+        "id": 2000520690,
+        "isDefault": true,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520690-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520690-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520690-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520690-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514553,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514553-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514553-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514553-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514553-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514554,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514554-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514554-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514554-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514554-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514521,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514521-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514521-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514521-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514521-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514506,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514506-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514506-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514506-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514506-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514524,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514524-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514524-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514524-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514524-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514541,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514541-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514541-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514541-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514541-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514552,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514552-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514552-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514552-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514552-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514507,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514507-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514507-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514507-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514507-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514539,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514539-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514539-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514539-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514539-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514503,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514503-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514503-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514503-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514503-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000695872,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000695872-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000695872-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000695872-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000695872-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514556,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514556-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514556-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514556-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514556-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514545,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514545-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514545-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514545-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514545-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514549,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514549-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514549-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514549-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514549-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514526,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514526-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514526-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514526-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514526-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514551,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514551-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514551-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514551-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514551-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514547,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514547-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514547-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514547-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514547-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514536,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514536-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514536-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514536-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514536-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514516,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514516-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514516-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514516-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514516-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514515,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514515-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514515-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514515-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514515-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514513,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514513-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514513-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514513-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514513-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514542,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514542-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514542-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514542-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514542-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514519,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514519-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514519-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514519-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514519-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514512,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514512-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514512-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514512-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514512-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514538,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514538-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514538-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514538-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514538-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514528,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514528-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514528-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514528-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514528-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514543,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514543-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514543-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514543-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514543-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514509,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514509-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514509-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514509-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514509-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000520689,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520689-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520689-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520689-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000520689-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514514,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514514-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514514-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514514-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514514-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514532,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514532-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514532-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514532-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514532-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514527,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514527-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514527-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514527-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514527-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514535,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514535-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514535-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514535-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514535-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      },
+      {
+        "id": 2000514533,
+        "isDefault": false,
+        "fullUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514533-1.jpg",
+        "miniUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514533-3.jpg",
+        "thumbnail2Url": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514533-4.jpg",
+        "thumbnailUrl": "https://images.cdn-cian.ru/images/taunhaus-moskva-minskaya-ulica-2000514533-2.jpg",
+        "isLayout": null,
+        "rotateDegree": null
+      }
+    ],
+    "roomArea": null,
+    "descriptionWordsHighlighted": [],
+    "newbuilding": null,
+    "rentByPartsDescription": null,
+    "areaParts": null,
+    "garage": null,
+    "isByCommercialOwner": null,
+    "externalId": null,
+    "creationDate": "2023-10-17T11:21:07.543",
+    "isCianPartner": false,
+    "dealType": "rent",
+    "isLayoutApproved": null,
+    "isByHomeowner": false,
+    "formattedAdditionalInfo": "Залог 650 000 ₽, без комиссии, предоплата 1 месяц, на длительный срок",
+    "isRecidivist": false,
+    "monthlyIncome": null,
+    "cianUserId": 12875909,
+    "kp": null,
+    "isImported": false,
+    "commercialOwnership": null,
+    "minArea": null,
+    "workplaceCount": null,
+    "dealRentVersion": null,
+    "status": "published",
+    "bargainTerms": {
+      "leaseType": null,
+      "utilitiesTerms": {
+        "price": 0,
+        "includedInPrice": true,
+        "flowMetersNotIncludedInPrice": null
+      },
+      "agentFee": 0,
+      "agentBonus": null,
+      "deposit": 650000,
+      "leaseTermType": "longTerm",
+      "currency": "rur",
+      "mortgageAllowed": null,
+      "priceForWorkplace": null,
+      "tags": [],
+      "clientFee": 0,
+      "paymentPeriod": "monthly",
+      "vatType": null,
+      "vatPrice": null,
+      "priceRur": 650000,
+      "saleType": null,
+      "priceType": "all",
+      "price": 650000,
+      "bargainAllowed": false
+    },
+    "isAuction": false,
+    "specialty": {
+      "specialties": [],
+      "additionalTypes": [],
+      "types": []
+    },
+    "cadastralNumber": null,
+    "videos": [],
+    "booking": null,
+    "isTop3": false,
+    "cianId": 293933482,
+    "building": {
+      "passengerLiftsCount": null,
+      "buildYear": 2004,
+      "classType": null,
+      "floorsCount": 3,
+      "type": null,
+      "cargoLiftsCount": null,
+      "accessType": null,
+      "materialType": null,
+      "parking": null,
+      "heatingType": "electric",
+      "deadline": null
+    },
+    "fullUrl": "https://www.cian.ru/rent/suburban/293933482/",
+    "businessShoppingCenter": null,
+    "floorNumber": null,
+    "offerFeatureLabelsV2": null,
+    "readyBusinessType": null,
+    "isExcludedFromAction": false,
+    "basicProfiScore": 1,
+    "livingArea": null,
+    "phones": [
+      {
+        "countryCode": "7",
+        "number": "9660504526"
+      }
+    ],
+    "formattedShortInfo": "Таунхаус",
+    "land": {
+      "type": null,
+      "status": null,
+      "area": "1.0",
+      "areaUnitType": "sotka",
+      "possibleToChangeStatus": null
+    },
+    "formattedFullPrice": "650 000 ₽/мес.",
+    "totalArea": "323.0",
+    "formattedFullInfo": "Таунхаус  •  323 м²  •  1 сот.",
+    "buildingCadastralNumber": null,
+    "fromDeveloper": null,
+    "shareAmount": null,
+    "newbuildingWithExtendedFeatures": null,
+    "coworkingOfferType": null,
+    "workTimeInfo": null,
+    "descriptionMinhash": [
+      179054026, 328074809, 5744891, 127403343, 3288119, 39274631, 79649689,
+      2885405, 12698352, 46609375, 20342219, 97904474, 74581901, 15338152,
+      11389199, 46354056, 41391984, 100575002, 56919404, 138030741, 3050395,
+      49799233, 57238317, 9884757, 114873044, 36014531, 78695808, 7336313,
+      32671981, 10473298, 3706214, 99303895
+    ],
+    "category": "townhouseRent",
+    "promoInfo": null,
+    "layout": null,
+    "isInHiddenBase": false,
+    "added": "24 май, 19:20",
+    "loggiasCount": null,
+    "isApartments": null,
+    "isCommercialOwnershipVerified": null,
+    "flatType": null,
+    "isDuplicatedDescription": false,
+    "isFavorite": false,
+    "notes": {
+      "offer": null,
+      "realtor": null
+    },
+    "user": {
+      "cianUserId": "12875909",
+      "isAgent": true,
+      "isBuilder": false,
+      "isCallbackUser": false,
+      "isCianPartner": false,
+      "isHidden": false,
+      "isPassportVerified": false,
+      "isSubAgent": false,
+      "userId": 12875909,
+      "userTrustLevel": "involved",
+      "accountType": "agency",
+      "agencyName": "Ashtons International Realty",
+      "agentAvatarUrl": "https://www.cian.ru/api/get-avatar/?i=242828&t=2&p=2",
+      "agentModerationInfo": {
+        "isUserIdentified": true,
+        "isUserIdentifiedByDocuments": true,
+        "qualityLevelInfo": {
+          "hasVerifiedDocuments": true,
+          "highResponsibility": false,
+          "levelName": "Суперагент",
+          "levelOrder": 4,
+          "levelSystemName": "max"
+        }
+      },
+      "billingInfo": {
+        "accountType": 0,
+        "packages": [
+          {
+            "countryId": 138,
+            "depositRequired": false,
+            "geoName": "Москва и ближнее Подмосковье",
+            "locationId": 1,
+            "packageTypeId": 2,
+            "packageTypeName": "Базовый"
+          }
+        ],
+        "removeCompetitor": false,
+        "replenishDisabled": false
+      },
+      "canShowOnline": true,
+      "cianProfileStatus": "approved",
+      "companyName": "Ashtons International Realty",
+      "isChatsEnabled": true,
+      "isSelfEmployed": false,
+      "phoneNumbers": [
+        {
+          "countryCode": "+7",
+          "number": "9261973855"
+        },
+        {
+          "countryCode": "+7",
+          "number": "9251955584"
+        }
+      ],
+      "profileUri": "company/12875909/",
+      "userType": "realtor_based",
+      "personalRating": null,
+      "agentAvailability": {
+        "available": true,
+        "availableFrom": null,
+        "availableTo": null,
+        "message": null,
+        "title": null,
+        "userId": 12875909,
+        "vacationTo": null
+      },
+      "agentLists": []
+    },
+    "isPro": true,
+    "gaLabel": "/rent/suburban/mo_id=0/obl_id=1/city_id=1/object_type=/ga_obj_type=4/spec=company/293933482/from_developer=0/repres=0/owner=0/pod_snos=0/",
+    "adfoxParams": {
+      "puid1": "deal_type_rent",
+      "puid2": "offer_suburban",
+      "puid5": "obl_id_1",
+      "puid6": "501_1000",
+      "puid7": "2323",
+      "puid8": 650000,
+      "puid9": 338,
+      "puid10": "no_agent",
+      "puid13": "1",
+      "puid16": "false",
+      "puid17": "false",
+      "puid19": "not_video",
+      "puid36": 1
+    },
+    "chatId": null,
+    "chat": {
+      "chatId": null,
+      "canSendMessage": true
+    },
+    "auction": null,
+    "isUnique": false,
+    "hasFairPrice": false,
+    "savedSearchLabels": [],
+    "isDealRequestSubstitutionPhone": false,
+    "isNewbuildingTourAvailable": false,
+    "isExternalTourAvailable": false,
+    "comparisonStatus": null,
+    "photoFeatureIcons": [],
+    "factoids": [],
+    "isBookedFromDeveloper": false,
+    "brandingLevel": "secondLevel",
+    "newbuildingDynamicCalltracking": {
+      "siteBlockId": null,
+      "newbuildingId": null
+    },
+    "identicalOffers": {
+      "title": "У других арендодателей",
+      "url": "/cat.php?deal_type=rent&engine_version=2&offer_type=suburban&identical_id=263015677",
+      "duplicatesOffersIds": [263015677]
+    },
+    "searchDuplicatesRotationPromo": null,
+    "bestPlaceAnalyticsAvailable": null,
+    "offerFeatureLabels": [],
+    "showGalleryThumbnails": false,
+    "isNewLabel": false
+  }
+}

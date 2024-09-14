@@ -1,0 +1,2790 @@
+{
+  "name": "Дом 60 м² на участке 6,5 сот.",
+  "url": "https://www.avito.ru/krasnodar/doma_dachi_kottedzhi/dom_60m_na_uchastke_65sot._2474889195",
+  "viewdata": {
+    "abFeatures": {
+      "installmentsFakeDoorPhotoPassport": false,
+      "installmentsFakeDoorTextPassport": false,
+      "isCartEnabled": false,
+      "isSplitAdvertBlock": false,
+      "itemActivationStatusPage": true,
+      "jae_item_card_banner": false,
+      "move_date_iv.test": false,
+      "srv_sticky_booking_btn_desktop.sticky_booking_button": false
+    },
+    "abacPolicies": {},
+    "actionScenario": {
+      "closeItem": "item_closed",
+      "selfItem": "item_self_user",
+      "selfItemPushup": "item_self_user_pushup"
+    },
+    "advancedParamsBlock": {
+      "items": [],
+      "title": ""
+    },
+    "advertisementStyle": null,
+    "appIndexingUrls": [
+      "android-app://com.avito.android/ru.avito/1/items/2474889195",
+      "ios-app://417281773/ru.avito/1/items/2474889195"
+    ],
+    "autoParams": null,
+    "bargainOffer": null,
+    "cVState": null,
+    "campaigns": null,
+    "carMarketPrice": null,
+    "closedItem": false,
+    "closedItemSerpLink": null,
+    "closedItemSerpLinkText": "",
+    "closedItemStatus": "",
+    "comparison": {
+      "canBeAdded": false,
+      "isAdded": false,
+      "isToggleEnabled": true,
+      "show": true
+    },
+    "complementarySections": {
+      "sections": [
+        {
+          "displayType": "",
+          "iconUri": "https://www.avito.ru/files/i2i%20icons/Autocorrection_16.png",
+          "id": "i2i_ranker_top100",
+          "isAvailableToHide": true,
+          "isCollapsed": true,
+          "itemsOnPageCount": 6,
+          "listViewType": "horizontal",
+          "title": "Похожие объявления",
+          "type": "similars"
+        }
+      ]
+    },
+    "contactBarInfo": {
+      "categoryId": 25,
+      "contacts": {
+        "list": []
+      },
+      "hasCvPackage": false,
+      "hasEmployeeBalanceForCv": false,
+      "hidePhone": false,
+      "isLogin": false,
+      "isResume": false,
+      "isVacancy": false,
+      "itemId": 2474889195,
+      "locationId": 633540,
+      "price": 8000,
+      "publicProfileInfo": {
+        "contactManager": "",
+        "hideSellerName": false,
+        "howOldInfo": "На Авито с января 2022",
+        "isAbuseEnabled": true,
+        "isChargeableCV": false,
+        "isCompany": false,
+        "isShop": false,
+        "isShortRentItem": true,
+        "isShowScamAlert": true,
+        "isVerifiedSeller": false,
+        "itemCategoryIsServices": false,
+        "itemSellerName": "Виталий",
+        "phoneNote": "Номер защищён: смс и сообщения в Viber, WhatsApp и других мессенджерах не будут доставлены",
+        "publicProfile": {
+          "avatar": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4oC9OgBdFjI2lr0gwrC9OuKCvSg.PS8Fya89ZR5ADKbm1vVCuimbfyg1ljUG3aFZYXOzdEY",
+          "link": "/brands/46b641783b9313b8df98ce28ea241337?gdlkerfdnwq=101&iid=2474889195&item_type=str_trx&page_from=from_item_card",
+          "summary": "2 объявления"
+        },
+        "publicProfileLink": "/brands/46b641783b9313b8df98ce28ea241337?gdlkerfdnwq=101&iid=2474889195&item_type=str_trx&page_from=from_item_header",
+        "sellerName": "Арендодатель",
+        "shopInfo": {
+          "isShop": false,
+          "shopLink": "",
+          "shopName": "Виталий"
+        },
+        "shopLink": "",
+        "showClosedItemsCount": false,
+        "showMedal": false,
+        "showShopLink": false,
+        "showVerifiedSellerMark": false,
+        "tenureMedal": "silver"
+      },
+      "searchHash": "wjd6116jux5gk5tjjws1oqlw2qrkj31",
+      "seller": {
+        "avatar": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4oC9OgBdFjI2lr0gwrC9OuKCvSg.PS8Fya89ZR5ADKbm1vVCuimbfyg1ljUG3aFZYXOzdEY",
+        "name": "Виталий",
+        "profileUrl": "/brands/46b641783b9313b8df98ce28ea241337?gdlkerfdnwq=101&iid=2474889195&item_type=str_trx&page_from=from_item_header"
+      },
+      "shop": {
+        "contactPerson": "",
+        "name": "Виталий",
+        "profileUrl": "",
+        "shopLink": ""
+      },
+      "side": "card",
+      "useDeliveryPopup": false
+    },
+    "country": {
+      "currency": "руб.",
+      "currencySign": "₽",
+      "domain": "avito.ru",
+      "host": "www.avito.ru",
+      "siteName": "Авито",
+      "sitePrefix": "https://www.avito.ru",
+      "supportPrefix": "https://support.avito.ru"
+    },
+    "creditInfo": null,
+    "currentPage": "item",
+    "currentUserId": 0,
+    "developmentAdvice": null,
+    "developmentVisit": null,
+    "employerRatingBanner": null,
+    "favoriteSeller": {
+      "isLogin": false,
+      "isShop": false,
+      "isSubscribed": false,
+      "publicProfileLink": "/brands/46b641783b9313b8df98ce28ea241337?gdlkerfdnwq=101&iid=2474889195&item_type=str_trx&page_from=from_item_header",
+      "subscriptionCounter": 0,
+      "summary": "2 объявления",
+      "userKey": "46b641783b9313b8df98ce28ea241337"
+    },
+    "fromPage": "",
+    "ga": [
+      {
+        "dynx_category": "doma_dachi_kottedzhi",
+        "dynx_pagetype": "item",
+        "dynx_price": 8000,
+        "dynx_prodid": 2474889195,
+        "dynx_region": "krasnodar",
+        "dynx_user": "a",
+        "dynx_vertical": 1
+      },
+      {
+        "categoryId": 25,
+        "categorySlug": "doma_dachi_kottedzhi",
+        "distance_to_city": 0,
+        "floors_count": "1",
+        "house_area": "60 м²",
+        "isClientType1": 0,
+        "isShop": 0,
+        "itemID": 2474889195,
+        "itemPrice": 8000,
+        "kol_vo_spalnykh_mest": "12",
+        "lease_period": "Посуточно",
+        "locationId": 633540,
+        "microCategoryId": 4933,
+        "multimedia": "Wi-Fi",
+        "offer_type": "Сдам",
+        "pageType": "Item",
+        "site_area": "6.5 сот.",
+        "type": "Дом",
+        "vertical": "RE",
+        "withDelivery": 1
+      }
+    ],
+    "galleryInfo": {
+      "imageAlt": "Дом 60 м² на участке 6,5 сот.",
+      "isOnlyVideo": false,
+      "isUseMedium": false,
+      "isUseSmall": false,
+      "media": [
+        {
+          "embededUrl": "https://kinescope.io/tQuyJTRvWK3sE11YjKux9w/master.m3u8",
+          "isVideo": true,
+          "sitePrefix": "https://www.avito.ru",
+          "urls": {
+            "1280x960": "https://70.img.avito.st/image/1/1.iC1CsLa5PsR0B6bJXoqXDTISJsL8EabSdBwmxvAFIMY.RW8jpuSoiRgo1WBq0xBIwabH8B2LiHVgAyl9yLk34LM",
+            "150x110": "https://70.img.avito.st/image/1/1.iC1CsLa1PsRYEfrHXoqXDTISJsT8G4rEKBImxg.tbRKxqAY_EEYy9kNko8F65Nn59twBPdrCffPenOYud8",
+            "640x480": "https://70.img.avito.st/image/1/1.iC1CsLa5PsR0GebBXoqXDTISJsL8EabMNBQmxvAFIMY.Br_lDeJ_McgVxtmWhvtO_R_waJNeQy7nYC5oevavssU",
+            "75x55": "https://70.img.avito.st/image/1/1.iC1CsLa3PsRiEkhsbaLtAPUTJM78hSeo9BM.kn47Dyx7KriBDZBZwbkaXTkSXi6fWzFJmqoaIboBO2s"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.orin07a5DlGRZIxc78Hs7K9xDFcZcoxHkX8MUxVmClM.3y26r1TvU8KOBydfNVTWF7JcISYdzDJylfDgNXsnPkE",
+            "150x110": "https://30.img.avito.st/image/1/1.orin07a1DlG9ctBS78Hs7K9xDFEZeKBRzXEMUw.GwU9rVuuDeyJLt6RzYbqOT3nEao2C8xwNFaFGdC-Scc",
+            "640x480": "https://30.img.avito.st/image/1/1.orin07a5DlGResxU78Hs7K9xDFcZcoxZ0XcMUxVmClM.vAMJkbsR2sMycM4VYBAb-ibdeK0r359f8l8G6gyY-Ko",
+            "75x55": "https://30.img.avito.st/image/1/1.orin07a3DlGHcWKtoJCz7RBwDlsZ5g09EXA.bjUP-1TcdUyccQ-O9c87KJ08q5sQ3LsxIA4xv4w7QWY"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://00.img.avito.st/image/1/1.nzWFnba5M9yzKrHRt7e0YII_Mdo7PLHKszEx3jcoN94.2hF0jlfKyuiCi0Ofg70mopr01vufQiv3brkhj_F59ac",
+            "150x110": "https://00.img.avito.st/image/1/1.nzWFnba1M9yfPO3ft7e0YII_Mdw7Np3c7z8x3g.g1vGd4leUnKGoXMqeMUsBR_-6OjZwx7QhzDGavqLdL0",
+            "640x480": "https://00.img.avito.st/image/1/1.nzWFnba5M9yzNPHZt7e0YII_Mdo7PLHU8zkx3jcoN94.1lRVacqfPMpS9mHfIZ49NC1FnhSi51fvqzA8XP5t7Uc",
+            "75x55": "https://00.img.avito.st/image/1/1.nzWFnba3M9ylP19auruPbzI-M9Y7qDCwMz4.AGqGCOJhcTGY3AkJLQgdY3vHLZG_6f0LyudnIgmX6QM"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://80.img.avito.st/image/1/1.PLeie7a5kF6UzBJT1ndy46rZklgc2hJIlNeSXBDOlFw.53GrF1KuugUSe6qJdcBV9jSP7E6Hu0sWN1q6zI3Knv0",
+            "150x110": "https://80.img.avito.st/image/1/1.PLeie7a1kF642k5d1ndy46rZkl4c0D5eyNmSXA.tU4cWNVgSpekTiB3S_AdTEEuDdQXGqFY0svtXEuKc2k",
+            "640x480": "https://80.img.avito.st/image/1/1.PLeie7a5kF6U0lJb1ndy46rZklgc2hJW1N-SXBDOlFw.Mx20l7BcoeCvyPFg854hq7BWIuVXDLEynq41v9snSEw",
+            "75x55": "https://80.img.avito.st/image/1/1.PLeie7a3kF6C2fyeuzgt4hXYkFQcTpMyFNg.NmjtwD-xIkPU2jIdsHYgui-B5OfgbJJ4KT_oqPJqRSI"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.Fg7Zhba5uufvMjjq-cVGWN4nuOFnJDjx7ym45WswvuU.dmM6Z5GcZvCBv5y2OYUCOIS2YA2fWy7SoDda9Mq6ATc",
+            "150x110": "https://30.img.avito.st/image/1/1.Fg7Zhba1uufDJGTk-cVGWN4nuOdnLhTnsye45Q.zCiZ25_U0bwxvkSrqEX-oYym3CC5jW9Zf1rJ5eMxIkc",
+            "640x480": "https://30.img.avito.st/image/1/1.Fg7Zhba5uufvLHji-cVGWN4nuOFnJDjvryG45WswvuU.E9s28K0ZT_hCDHKhgGi5BNCWzMES8qb2bzA2giZ_e_0",
+            "75x55": "https://30.img.avito.st/image/1/1.Fg7Zhba3uuf5J9ZzjNgFVG4muu1nsLmLbyY.FjngDaVUA4tSWtkSqfbeYwFCANr-76taBieQ8SAI-2E"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://60.img.avito.st/image/1/1.fVjdCba50bHrvlO8qwQwK9qr07djqFOn66XTs2-81bM.HFC4iZr9A8NtI1abJ1JFmwfCXRoO95ntTyJOxO2OHDQ",
+            "150x110": "https://60.img.avito.st/image/1/1.fVjdCba10bHHqA-yqwQwK9qr07Fjon-xt6vTsw.3zORzs-gkauutG2ctNNijo3P1c7fNvU5nrHeao09o8M",
+            "640x480": "https://60.img.avito.st/image/1/1.fVjdCba50bHroBO0qwQwK9qr07djqFO5q63Ts2-81bM.LBOxABrCYI8Y2LrNz-bihn9d2td2xGXH_wC_2u_dzz8",
+            "75x55": "https://60.img.avito.st/image/1/1.fVjdCba30bH9q71zxUlLAmqq0btjPNLda6o.hYI3JwnCUrZ4_q-hsCVeiKVODgMxN7Et12S0-OoPJso"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://20.img.avito.st/image/1/1.awiFTra5x-Gz-UXs32dAXYLsxec770X3s-LF4zf7w-M.aX16cR4WxMJZ7J_7lmIXy2gA5Yiof9vxiHrR93BsGoM",
+            "150x110": "https://20.img.avito.st/image/1/1.awiFTra1x-Gf7xni32dAXYLsxeE75Wnh7-zF4w.KW0DWzfvz9BrtG_-IaHa0jfCJQ8r6GyyhmB4GVpxSgE",
+            "640x480": "https://20.img.avito.st/image/1/1.awiFTra5x-Gz5wXk32dAXYLsxec770Xp8-rF4zf7w-M.G-jyuuTEoeOgH8BGn4_oBCPQ0iKXesMNF0_6MfulXMA",
+            "75x55": "https://20.img.avito.st/image/1/1.awiFTra3x-Gl7KsPuWh7UjLtx-s7e8SNM-0.Ygv5PL2xVqpuAG3PytnT6iDbrofOWV23cAB5MTbqXWA"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://50.img.avito.st/image/1/1.vK4Ddra5EEc1wZJKd2Tx3QTUEkG915JRNdoSRbHDFEU.T_OhES-2tyb8ICqUn5yBbr3ToJiukVeQxv5dpOmp9yc",
+            "150x110": "https://50.img.avito.st/image/1/1.vK4Ddra1EEcZ185Ed2Tx3QTUEke93b5HadQSRQ.1b4_70mWps2e7bja7jmtEUSsQPdWZPqnHZdP4e-HV3A",
+            "640x480": "https://50.img.avito.st/image/1/1.vK4Ddra5EEc139JCd2Tx3QTUEkG915JPddISRbHDFEU.rjHrojJ9ANczJ_JsRwg94J73avInqExzIumIrnIE5-8",
+            "75x55": "https://50.img.avito.st/image/1/1.vK4Ddra3EEcj1HyHBDaK9LTVEE29QxMrtdU.IvXtnsBGlaSqFgQIyKplrmkuzs606kZiokdQQ5oroE8"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://40.img.avito.st/image/1/1.A-g-c7a6rwEIxC0MND8GzeTQqQuKULmDh9CtB57WrQ.UFgxpkk-GQ4dPhEiMndkXY0sesyMurVcpwfUaJDi7x0",
+            "150x110": "https://40.img.avito.st/image/1/1.A-g-c7a2rwEk0nECND8GzeTQrwuAfK_fidCt.J_eAeMwHPFvy_lkbA076U6kOf409DO9Q6rgAzhI23b0",
+            "640x480": "https://40.img.avito.st/image/1/1.A-g-c7a6rwEI2m0END8GzeTQqQuKUKfDj9CtB57WrQ.QDAB29rbh9NpWN08bMa6LDXNXJH_hbMvixHcOCiaf9M",
+            "75x55": "https://40.img.avito.st/image/1/1.A-g-c7awrwEe0cO_Z3tjb4jSpQse0cMDiA.mYiDHe9pzI6m1pfGgHu47Hh-Ax982Ok77SU5lIce87I"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.VM9_p7a5-CZJEHorW7p6-30F-iDBBnowSQv6JM0S_CQ.cswW4GWEZGDZlF-7jMvCR2qtNptN7B_45KWek6wgAL8",
+            "150x110": "https://30.img.avito.st/image/1/1.VM9_p7a1-CZlBiYlW7p6-30F-ibBDFYmFQX6JA.5g-_ewXPgcXoXRDsnXS4PxYoDy8OlydKM8IRdhC_2-A",
+            "640x480": "https://30.img.avito.st/image/1/1.VM9_p7a5-CZJDjojW7p6-30F-iDBBnouCQP6JM0S_CQ.AO4eHTQ03S-uC-dTQx4e_cSiCcMlu_eX_on_faP5JcQ",
+            "75x55": "https://30.img.avito.st/image/1/1.VM9_p7a3-CZfBZS2d4QlkMgE-CzBkvtKyQQ.fRHw4f4M1Ng_VwBolliDNLOD76gFWQpFgLEna3IP2Go"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.0vrbZ7a5fhPt0Pwe80CDz9nFfBVlxvwF7ct8EWnSehE.JJNP8bogdlPHQXv5hwWtkkAyoBb5ogp41hMIB_maBAk",
+            "150x110": "https://30.img.avito.st/image/1/1.0vrbZ7a1fhPBxqAQ80CDz9nFfBNlzNATscV8EQ.NyOPagZX_2bELfryWqUhmz9YETs8zjssrkNnK83QrYU",
+            "640x480": "https://30.img.avito.st/image/1/1.0vrbZ7a5fhPtzrwW80CDz9nFfBVlxvwbrcN8EWnSehE.FqksXNsHbCuZCOBMaypDB9HBFbmqt0jNiIQvO-RlhgI",
+            "75x55": "https://30.img.avito.st/image/1/1.0vrbZ7a3fhP7xRKP6TuipWzEfhllUn1_bcQ.Y94vvtyj39XG2q5sZ8SsSFkSzGE6Hw4SSI12Aindem0"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://70.img.avito.st/image/1/1.9ls2v7a6WrIACNi_Vqj0fuwcXLiCnEwwjxxYtJYaWA.d2buiNtSgaqLmYLm8epA2obXhjV5oMhiOudZiYrxjzU",
+            "150x110": "https://70.img.avito.st/image/1/1.9ls2v7a2WrIsHoSxVqj0fuwcWriIsFpsgRxY.VYwLWT7f4O5J6OGivXU4oBFG8xHPAJneiVP1f2TgGHo",
+            "640x480": "https://70.img.avito.st/image/1/1.9ls2v7a6WrIAFpi3Vqj0fuwcXLiCnFJwhxxYtJYaWA.2UmW01z2N4qqhc5WFOCX97G9x0j-1q5rJMzuKh3B5dY",
+            "75x55": "https://70.img.avito.st/image/1/1.9ls2v7awWrIWHTZmNLCW3IAeULgWHTawgA.zWA40EpWi24j-cICVV_22jc_R8axV-EPdXOLPWWR8_g"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://20.img.avito.st/image/1/1.sYEu1ba5HWgYYp9lQMP_6Dl3H26QdJ9-GHkfapxgGWo.hSBSBnz6kuCWAbExlWvj7lFChlVkeN3wNp-PCNYnsrM",
+            "150x110": "https://20.img.avito.st/image/1/1.sYEu1ba1HWg0dMNrQMP_6Dl3H2iQfrNoRHcfag.5ecVDhY3ay2mW8ihkz8hKvaw6pK2dAVqtlm8VNRscYg",
+            "640x480": "https://20.img.avito.st/image/1/1.sYEu1ba5HWgYfN9tQMP_6Dl3H26QdJ9gWHEfapxgGWo.IIgj64EY1W7BAzdYEyQPcVfVJNKDB2WcClqXbrrmBIU",
+            "75x55": "https://20.img.avito.st/image/1/1.sYEu1ba3HWgOd3GyLZady5l2HWKQ4B4EmHY.FqLfH9J7lU33LbsXjHrQ30g21lX8nkPRXRba9Mb4sfw"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.j3cAJba5I542kqGTEh-aZyKHIZi-hKGINokhnLKQJ5w.DXbOvPbSdamrwnsj2veIF219dgXsehvaQzrhv92_6PI",
+            "150x110": "https://30.img.avito.st/image/1/1.j3cAJba1I54ahP2dEh-aZyKHIZ6-jo2eaochnA.9s3aNQEOzm773WMNOfysvErLF8a0svgSU-za3tOaWF8",
+            "640x480": "https://30.img.avito.st/image/1/1.j3cAJba5I542jOGbEh-aZyKHIZi-hKGWdoEhnLKQJ5w.z-J0-k87FwOmzOtSSUs-Abp6hY4uqoowBokbntOWoO8",
+            "75x55": "https://30.img.avito.st/image/1/1.j3cAJba3I54gh084Lz3aCLeGI5S-ECDytoY.1DSl5SMYeTmFFeORr6Keh_z-vwU_HJXTgUjuc87nihc"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://10.img.avito.st/image/1/1.SMQWpLa65C0gE2YgColK4cwH4ieih_KvrwfmK7YB5g.kmm5d1CLxkDvN1vagK9abyIAC2JZqmN7CRRRPF6HZ38",
+            "150x110": "https://10.img.avito.st/image/1/1.SMQWpLa25C0MBTouColK4cwH5Ceoq-TzoQfm.SznPqtl3F2UhM2dbR6UlK2ei1_6Fi3enD4EyoJvYM40",
+            "640x480": "https://10.img.avito.st/image/1/1.SMQWpLa65C0gDSYoColK4cwH4ieih-zvpwfmK7YB5g.114cGPZO0RnlIsg3GDTaMtFHIUX63-Ew3Fb-rlZa2bk",
+            "75x55": "https://10.img.avito.st/image/1/1.SMQWpLaw5C02BoiFLqsoQ6AF7ic2BogvoA.7GJ-K4WSD9reDEex2XyASa-S14n4kdOSGBN2RWjd06w"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://70.img.avito.st/image/1/1.TUIhxba54asXcmOmN9gDKzZn462fZGO9F2njqZNw5ak.M2LrfX0iNK-km3-e574KnsnCbfdvCme2mibdG_bfXO0",
+            "150x110": "https://70.img.avito.st/image/1/1.TUIhxba14as7ZD-oN9gDKzZn46ufbk-rS2fjqQ.vfnXjMZhkqnicU3EWCAKJ5oaeyY_lY0KsoPfFC2MTP0",
+            "640x480": "https://70.img.avito.st/image/1/1.TUIhxba54asXbCOuN9gDKzZn462fZGOjV2HjqZNw5ak.T4W3WQYJSeVS7V6nwGQathjh4dRjSaL1IYcHOiDY0OI",
+            "75x55": "https://70.img.avito.st/image/1/1.TUIhxba34asBZ40JKYZhCJZm4aGf8OLHl2Y.Gem9Hh781bWhEj6M0RtRxhObItygJI0Qy5RgczUN2E8"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://10.img.avito.st/image/1/1.64PfaLa5R2rp38VnhVP-k_3KRWxhycV86cRFaG3dQ2g.6cIGSTpQy5pdCZbsaW5ohgmHy8aPYjgsF3dKm5MsByg",
+            "150x110": "https://10.img.avito.st/image/1/1.64PfaLa1R2rFyZlphVP-k_3KRWphw-lqtcpFaA._2jgzN-J2J0cCgj_D5oUz8vlT36ms5DGhWW01_nyf8I",
+            "640x480": "https://10.img.avito.st/image/1/1.64PfaLa5R2rpwYVvhVP-k_3KRWxhycViqcxFaG3dQ2g.OPehUlFRmRIIClegQIWSXQ9YYf9mQ-gbd-p_lw-s6qE",
+            "75x55": "https://10.img.avito.st/image/1/1.64PfaLa3R2r_yiuE8XC-_GjLR2BhXUQGacs.BHuF_DeF1ec1_5dHFLHQLP0dvH70USSt52Q2rj7jr90"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://40.img.avito.st/image/1/1.retUp7a6AQJiEIMPAvGozo4EBwjghBeA7QQDBPQCAw.Y3QHWSFuzIEepx6HRN3s46EkLu4kMqxPmilHt7N2xrc",
+            "150x110": "https://40.img.avito.st/image/1/1.retUp7a2AQJOBt8BAvGozo4EAQjqqAHc4wQD.8x01FXtLHcDa8hDwwkP1sXYsa_dXi22yuiS_sP7mn7s",
+            "640x480": "https://40.img.avito.st/image/1/1.retUp7a6AQJiDsMHAvGozo4EBwjghAnA5QQDBPQCAw.B5SdZnA1T5adxxevh0BZt1UUxIObJhmDkKoTov5HReg",
+            "75x55": "https://40.img.avito.st/image/1/1.retUp7awAQJ0BW3gF6_NbOIGCwh0BW0A4g.uhUljxPuwixpm1MXljczkm6yoFmAff1o6M6Mtw9kxVo"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.Wjzjxba59tXVcnTY28gXT-Rn9NNdZHTD1Wn011Fw8tc.u3HKQCYaRXEikkyzwLkV2VjQrMBRQzM4vbYHuGkxdLg",
+            "150x110": "https://30.img.avito.st/image/1/1.Wjzjxba19tX5ZCjW28gXT-Rn9NVdbljViWf01w.R2nT2y7z1NsOJL8DS8wdHl53Jn6K_EI_zTq4a5hee1c",
+            "640x480": "https://30.img.avito.st/image/1/1.Wjzjxba59tXVbDTQ28gXT-Rn9NNdZHTdlWH011Fw8tc.IfT8R2Wha5pUJZQJ21Kn3lNKmDIiCTPY8D9hlRpUZ8g",
+            "75x55": "https://30.img.avito.st/image/1/1.Wjzjxba39tXDZ5pZ-4VsZlRm9t9d8PW5VWY.IpoBQk3e_CrUqdIH4qFYINiNZSr3rYBsYEM5I5fXchs"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://60.img.avito.st/image/1/1.Y2JmoLa6z4tQF02GLM1mR7wDyYHSg9kJ3wPNjcYFzQ.zxIDSoJL9k-Hr2ihPNTHkVt7pcn1-0hzX_e_CWvwE0Y",
+            "150x110": "https://60.img.avito.st/image/1/1.Y2JmoLa2z4t8ARGILM1mR7wDz4HYr89V0QPN.Bd9KtKyk4JZIHQ_z7L5w5nc72z8QNxY6sB5NW37E5VY",
+            "640x480": "https://60.img.avito.st/image/1/1.Y2JmoLa6z4tQCQ2OLM1mR7wDyYHSg8dJ1wPNjcYFzQ.grsttw0h-Ri-mcgavjNQ8hiKXeeabZ1zX4MDg4y54LI",
+            "75x55": "https://60.img.avito.st/image/1/1.Y2JmoLawz4tGAqN1HqgD5dABxYFGAqOJ0A.dwLnYgRW9mdudB480BJ7wD-qsRHXQKdonVwJTz5rYxw"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://90.img.avito.st/image/1/1.3m_357a5cobBUPCLx6CdX9VFcIBJRvCQwUtwhEVSdoQ.rqSdLN5R9DnxeixSS_uFgWKKgGCvL4QSvOsJv6wHjOM",
+            "150x110": "https://90.img.avito.st/image/1/1.3m_357a1cobtRqyFx6CdX9VFcIZJTNyGnUVwhA.EAy970qTBhYHlwxRckoagI4h-yKFJWueo_pVczyYqTM",
+            "640x480": "https://90.img.avito.st/image/1/1.3m_357a5cobBTrCDx6CdX9VFcIBJRvCOgUNwhEVSdoQ.-_9-EhQsen7G2xBswH8XOPJGlJnt2BWUdPab8CfYw24",
+            "75x55": "https://90.img.avito.st/image/1/1.3m_357a3cobXRR4CpamrEEBEcoxJ0nHqQUQ.Z2Dpwil3cvMnoy5Fmsjtu0PbjTlHndvG_KMXZU9mpEc"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://00.img.avito.st/image/1/1.4LqXc7a5TFOhxM5e2zijirXRTlUp0s5Fod9OUSXGSFE.OBFAAtE2iO6DaSQL_83fHRSOjtYjl1hAcJmBDXRyVEY",
+            "150x110": "https://00.img.avito.st/image/1/1.4LqXc7a1TFON0pJQ2zijirXRTlMp2OJT_dFOUQ.fmVk1aOxCL89fw_UIGBMrDxuu9J5kakuIan3mRb8qQc",
+            "640x480": "https://00.img.avito.st/image/1/1.4LqXc7a5TFOh2o5W2zijirXRTlUp0s5b4ddOUSXGSFE.c1kPsazhe-OdksNTqRXJtm0mdZ-f8NKTI3hKjHjGm2I",
+            "75x55": "https://00.img.avito.st/image/1/1.4LqXc7a3TFO30SCryT2VxSDQTFkpRk8_IdA.xD9Wtr9bMT_ByxNifjZwGyJ387I8AbC1ZfIGXB3szNg"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://20.img.avito.st/image/1/1.Jbm8h7a5iVCKMAtd-vtmiZ4li1YCJgtGiiuLUg4yjVI.f7JXjD9-HC2suIvDUja4VgQu2U8M2S_GZRsAC3-JeXs",
+            "150x110": "https://20.img.avito.st/image/1/1.Jbm8h7a1iVCmJldT-vtmiZ4li1ACLCdQ1iWLUg.zO4nR9-SzHi5ETjjATK_dOxGzjDaNafqDjYmNh8vymI",
+            "640x480": "https://20.img.avito.st/image/1/1.Jbm8h7a5iVCKLktV-vtmiZ4li1YCJgtYyiOLUg4yjVI.knlfMp-xfDQDGq5qKV8_Osx7HwFD4QaVZCi4gF6sMJs",
+            "75x55": "https://20.img.avito.st/image/1/1.Jbm8h7a3iVCcJeWi1clQxgskiVoCsoo8CiQ.aCtaFGL0gTXJ4M8r7RVIYGgKyo6Rt2wnGzs9L1MNziw"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://60.img.avito.st/image/1/1.0Dggc7a5fNEWxP7cDEjFKALRftee0v7HFt9-05LGeNM.8U9XewOjqQeBjLFckkwkz4keifP_pxTMTCYhoq9ulJ0",
+            "150x110": "https://60.img.avito.st/image/1/1.0Dggc7a1fNE60qLSDEjFKALRftGe2NLRStF-0w.hhbjE8Tf580_gKsqKEvhsVoQV5UuvxEdokjGMPBCOzw",
+            "640x480": "https://60.img.avito.st/image/1/1.0Dggc7a5fNEW2r7UDEjFKALRftee0v7ZVtd-05LGeNM.hC5pudWeCMN_LLWMyHBDQycro7-jj0M0JGscglJ1ubE",
+            "75x55": "https://60.img.avito.st/image/1/1.0Dggc7a3fNEA0RBJDmuFR5fQfNueRn-9ltA.xFj8WzLoG4AV3-nIR4LNBhkZvy4Gqb4A4TJTM560JgI"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://20.img.avito.st/image/1/1.j9iIfba5IzG-yqE8mlekjY_fITc23KEnvtEhMzrIJzM.qvOuVOX6eVkbRz9CrJ0OmkoFCrEGJeJ7qJfDIT9hpEA",
+            "150x110": "https://20.img.avito.st/image/1/1.j9iIfba1IzGS3P0ymlekjY_fITE21o0x4t8hMw._5NAqy5Od8y1OqwtmKTuKUel3SqI51vy3wyhbMRHhL8",
+            "640x480": "https://20.img.avito.st/image/1/1.j9iIfba5IzG-1OE0mlekjY_fITc23KE5_tkhMzrIJzM.AXRW0A4wpzgwvD11qpHDwMKljWmCvrOEnA3MYtHYU2Y",
+            "75x55": "https://20.img.avito.st/image/1/1.j9iIfba3IzGo30-Xt1ufgj_eIzs2SCBdPt4.3jLmKBq_yacYwuVEWaBP3ADZ5hzK3Bm_q9X0hKLSEi0"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://70.img.avito.st/image/1/1._I3LH7a5UGT9qNJpvzTX2My9UmJ1vtJy_bNSZnmqVGY.mJR-acz1F65HNAoZRkINMBJfFafeGlVTpo4Ko5K-NzI",
+            "150x110": "https://70.img.avito.st/image/1/1._I3LH7a1UGTRvo5nvzTX2My9UmR1tP5kob1SZg.F7qT-odvJ5R84vFswFpziKw4XuQkbX4_WdTJ18E_NSE",
+            "640x480": "https://70.img.avito.st/image/1/1._I3LH7a5UGT9tpJhvzTX2My9UmJ1vtJsvbtSZnmqVGY.3STUP82H8y0XZlCOryfZf6t44n_6_WYLw2Nh5RbXUug",
+            "75x55": "https://70.img.avito.st/image/1/1._I3LH7a3UGTrvTyk9Tns13y8UG51KlMIfbw.jUGE9nUe_XVDoLJREObE-_8OkYMWhGhRcTSkPUf0-jk"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://30.img.avito.st/image/1/1.3P6zsba5cBeFBvIah_KfzpETchENEPIBhR1yFQEEdBU.Vaxu8KiRT7IBt9UDud3dn09uVqs8yShbG-x4ep-JPFc",
+            "150x110": "https://30.img.avito.st/image/1/1.3P6zsba1cBepEK4Uh_KfzpETchcNGt4X2RNyFQ.zUm9PLjbB9p_ulBQdE6h_PUWsHxIolvxulVSm6PXjFU",
+            "640x480": "https://30.img.avito.st/image/1/1.3P6zsba5cBeFGLISh_KfzpETchENEPIfxRVyFQEEdBU.qrjFwDMP3y27ZrZUx8FfojTiUVxxQ-s2XRNq8-NpMvk",
+            "75x55": "https://30.img.avito.st/image/1/1.3P6zsba3cBeTExyX5f-pgQQScB0NhHN7BRI.nwlTU77s4Ch_HCdiIo7AClmje63JLHpe6S5n6FreRBg"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://60.img.avito.st/image/1/1.l0Htera5O6jbzbmlzxjZKPrYOa5T27m-29Y5ql_PP6o.VCMOiMrTr_bp9JEkRTSiSq5Q3EMexngKFN774KRJSew",
+            "150x110": "https://60.img.avito.st/image/1/1.l0Htera1O6j32-WrzxjZKPrYOahT0ZWoh9g5qg.sbyvL1RiKubXA5NKx95tOYkArw_qYGRTl7c1xM9RT4Q",
+            "640x480": "https://60.img.avito.st/image/1/1.l0Htera5O6jb0_mtzxjZKPrYOa5T27mgm945ql_PP6o.8vQE1XOmbne7oDsgRd-9UpMx2Ajw0z9fLX0J9DtxMoM",
+            "75x55": "https://60.img.avito.st/image/1/1.l0Htera3O6jN2Fc-mjm7C1rZO6JTTzjEW9k.65t6eQD4AJxCbNJcoexpH0wrq_8jy3Sy4PuMFz92N9I"
+          }
+        },
+        {
+          "embededUrl": null,
+          "isVideo": false,
+          "sitePrefix": "",
+          "urls": {
+            "1280x960": "https://70.img.avito.st/image/1/1.DSmlULa5ocCT5yPNs2QZKofyo8Yb8SPWk_yjwhflpcI.SCr2gcRFIHfT8KUzCoY7d29nk1pTWSPrBpDBPLu9-MY",
+            "150x110": "https://70.img.avito.st/image/1/1.DSmlULa1ocC_8X_Ds2QZKofyo8Ab-w_Az_Kjwg.a-741qaAXgFGBXTNZETM2_k4cd5o41WGMmYMjPA_7DI",
+            "640x480": "https://70.img.avito.st/image/1/1.DSmlULa5ocCT-WPFs2QZKofyo8Yb8SPI0_SjwhflpcI.pq1m-iQU7ksGy9DDrdim8OzjhdqAjsz5h2g71eGLPok",
+            "75x55": "https://70.img.avito.st/image/1/1.DSmlULa3ocCF8s1ihElLVhLzocobZaKsE_M.fIp6ZcnjUu56NL-H8kTSPbZ-D9VXly7zRdvdcBe2LY4"
+          }
+        }
+      ],
+      "realtyLayoutIndexes": [],
+      "startGalleryIndex": null
+    },
+    "googleJobPosting": null,
+    "gorelkinText": null,
+    "hasWysiwyg": false,
+    "icebreakers": null,
+    "icebreakersPosition": null,
+    "inGalleryButtons": true,
+    "isBot": false,
+    "isCartEnabled": false,
+    "isCompany": false,
+    "isConsultationFormEnable": null,
+    "isHidePhone": false,
+    "isItemActiveOrUserHasAccess": true,
+    "isLogin": false,
+    "isMyItem": false,
+    "isNoAdsAuto": false,
+    "isRealtyExpert": false,
+    "isRecaptchaEnabled": true,
+    "isShareEnabled": true,
+    "isShopIsApproved": false,
+    "isShowBigDeal": false,
+    "isShowShopItemsSimilar": false,
+    "isShowShopLink": false,
+    "isShowShopShowPromoBlock": false,
+    "isSplitAdvertBlock": false,
+    "isTwoColonGalleryAndParamLayout": false,
+    "item": {
+      "abFeatures": {},
+      "address": "Краснодарский край, Краснодар, садовое товарищество Дружба-1, 143",
+      "appIndexingUrls": [
+        "android-app://com.avito.android/ru.avito/1/items/2474889195",
+        "ios-app://417281773/ru.avito/1/items/2474889195"
+      ],
+      "autoInfo": null,
+      "autoPublish": null,
+      "autotekaTeaser": null,
+      "badgeBar": {
+        "badges": [
+          {
+            "action": {
+              "deeplink": null,
+              "type": "show-popup",
+              "value": {
+                "badgeId": 2051,
+                "objectEntity": "item",
+                "objectId": "2474889195"
+              }
+            },
+            "description": "Защита оплаты и поддержка 24/7",
+            "id": 2051,
+            "style": {
+              "backgroundColor": {
+                "value": "#F3EDFE",
+                "valueDark": "#271F34"
+              },
+              "backgroundPressedColor": {
+                "value": "#DAC5FB",
+                "valueDark": "#36274B"
+              },
+              "fontColor": {
+                "value": "#000000",
+                "valueDark": "#E3E3E3"
+              },
+              "icon": {
+                "value": {
+                  "1024x1024": "https://80.img.avito.st/image/1/1.t4sdmLawwfqqOZlwKyvN4U7xk2GrOxtkrQ.0ZxaCLQ-secZLZr7MisWyzf8vMnFBcwhY73ed7Ee7EM",
+                  "128x128": "https://80.img.avito.st/image/1/1.t4sdmLa1wfqqOZliKznN4U7xk2GrOx1krTnRYQ.-E8S3QJ8YcwUfGRa0zWX7YyRZxbaIkhfZZKNlMRVDFs",
+                  "196x196": "https://80.img.avito.st/image/1/1.t4sdmLa1wfqqOZFjIzjN4U7xk2GrOx1krTnRYQ.U5SO54Zp9VPoogqTSkT-zmSDjHw2CXxyFH86veFjr70",
+                  "256x256": "https://80.img.avito.st/image/1/1.t4sdmLa1wfqqOZlkKz_N4U7xk2GrOx1krTnRYQ.QyegPvsV4szKXgTSnxvGsJTBH7uh7oso2lTtm1QC1cc",
+                  "64x64": "https://80.img.avito.st/image/1/1.t4sdmLa1wfqqOZlhKzrN4U7xk2GrOx1krTnRYQ.EftHEDjTHlt0pJrZi4eySGdAV4F5R76g4n6zVaT4Yss"
+                },
+                "valueDark": {
+                  "1024x1024": "https://80.img.avito.st/image/1/1.DQY0D7awe3eDriP9ArwDbmdmKeyCrKHphA.5SLq4jszJm51ziB9z36K8AK_i7FXPiacwOGta6jMf9w",
+                  "128x128": "https://80.img.avito.st/image/1/1.DQY0D7a1e3eDriPvAq4DbmdmKeyCrKfphK5r7A.YZ_0aOfgMMK__W8sByqDlfn-Z4hfLrqR9wTSKu-4JSQ",
+                  "196x196": "https://80.img.avito.st/image/1/1.DQY0D7a1e3eDrivuCq8DbmdmKeyCrKfphK5r7A.ke-bETVKHPIMB4ehUDjv2vhNv3kgIHMD0wlYAs549Hs",
+                  "256x256": "https://80.img.avito.st/image/1/1.DQY0D7a1e3eDriPpAqgDbmdmKeyCrKfphK5r7A.nwL0QpOR3BJ0MuU8VtVjzI6CVeMmk4E8oz8UuenvEAk",
+                  "64x64": "https://80.img.avito.st/image/1/1.DQY0D7a1e3eDriPsAq0DbmdmKeyCrKfphK5r7A.15T6_hZdXdlE8BeBwUg5VxLSPJDb3oiKzSkWXKuHnMU"
+                }
+              }
+            },
+            "title": "Безопасная бронь"
+          }
+        ],
+        "view": {
+          "display": "vertical",
+          "preloadCount": 5,
+          "showArrow": true,
+          "showMoreTitle": "Показать еще 5"
+        }
+      },
+      "banners": {
+        "header.after": null,
+        "right.similar.after": null
+      },
+      "bodyCondition": null,
+      "brandEntrypoint": null,
+      "breadcrumbs": [
+        {
+          "name": "Главная",
+          "title": "Все объявления в Краснодаре",
+          "url": "/krasnodar"
+        },
+        {
+          "name": "Недвижимость",
+          "title": "Недвижимость в Краснодаре",
+          "url": "/krasnodar/nedvizhimost"
+        },
+        {
+          "name": "Дома, дачи, коттеджи",
+          "title": "Дома, дачи, коттеджи в Краснодаре",
+          "url": "/krasnodar/doma_dachi_kottedzhi"
+        },
+        {
+          "name": "Снять",
+          "title": "Снять",
+          "url": "/krasnodar/doma_dachi_kottedzhi/sdam-ASgBAgICAUSUA9IQ"
+        },
+        {
+          "name": "Дома",
+          "title": "Дома",
+          "url": "/krasnodar/doma_dachi_kottedzhi/sdam/dom-ASgBAgICAkSUA9IQ2gjWWQ"
+        },
+        {
+          "name": "Посуточно",
+          "title": "Посуточно",
+          "url": "/krasnodar/doma_dachi_kottedzhi/sdam/dom/posutochno-ASgBAgICA0SUA9IQoAjKVdoI1lk"
+        }
+      ],
+      "bundle": null,
+      "callbackEnabled": null,
+      "carMarketPrice": null,
+      "cardPriceBadge": null,
+      "category": {
+        "id": 25,
+        "isCars": false,
+        "isComparisonAvailable": true,
+        "isGoods": false,
+        "isJob": false,
+        "isOffers": false,
+        "isRealty": true,
+        "isResume": false,
+        "isServices": false,
+        "isTransport": false,
+        "isUnlimited": false,
+        "isVacancy": false,
+        "parent": {
+          "id": 4,
+          "isCars": false,
+          "isComparisonAvailable": false,
+          "isGoods": false,
+          "isJob": false,
+          "isOffers": false,
+          "isRealty": false,
+          "isResume": false,
+          "isServices": false,
+          "isTransport": false,
+          "isUnlimited": false,
+          "isVacancy": false,
+          "parent": null,
+          "parentId": null,
+          "parentSlug": null,
+          "slug": "nedvizhimost"
+        },
+        "parentId": 4,
+        "parentSlug": "nedvizhimost",
+        "slug": "doma_dachi_kottedzhi"
+      },
+      "categoryId": 25,
+      "comparison": {
+        "canBeAdded": false,
+        "isAdded": false,
+        "isToggleEnabled": true,
+        "show": true
+      },
+      "countryConfig": {
+        "currency": "руб.",
+        "currencySign": "₽",
+        "domain": "avito.ru",
+        "host": "www.avito.ru",
+        "siteName": "Авито",
+        "sitePrefix": "https://www.avito.ru",
+        "supportPrefix": "https://support.avito.ru"
+      },
+      "cvAccessStatus": null,
+      "delivery": {
+        "courier": {
+          "isBuyerLocationAppropriate": false
+        },
+        "isSafedealRootCategory": false
+      },
+      "deliveryInfo": {
+        "isCart": false,
+        "isDelivery": false,
+        "isRequestedDelivery": false,
+        "isRequestedDeliveryAvailable": false,
+        "isReserved": false
+      },
+      "description": "<p>🚩🚩ОБРАТИТЕ ВНИМАНИЕ 🚩</p><p>           В ДОМЕ ТОЛЬКО ДВА             СПАЛЬНЫХ МЕСТА ( диван). </p><p>Сдаётся очень уютный дом с камином для проведения камерных мероприятий.</p><p>Свидания, свадьбы, девичники, дни рождения, фотосессии, гендерпати ,или просто выехать из  квартиры. Подышать свежим воздухом,пожарить мясо на гриле, погреться у камина, попить чай из самовара.</p><p>Стоимость аренды зависит от количества гостей и дня недели. Аренда для двоих в будние дни 8000 рублей, в пят., суб.,воскр. и праздничные  дни 10000 рублей. За каждого последующего гостя доплата 500 рублей. </p><p>Банный чан-5000рублей. </p><p>Обращаем внимание:📍📍📍<br /> -максимальное количество гостей 12 человек<br />-НА НОЧЬ МОГУТ ОСТАТЬСЯ ТОЛЬКО ДВОЕ(в доме  2 спальных места). </p><p>Красивый сад,  ландшафтный дизайн, зона очага, зона гамаков и качелей, терраса, газон, уютная зона под деревом, камин, банный чан. </p><p>Есть мангал, холодильник, микроволновая печь, эл. чайник, а так же всë необходимое для сервировки стола ( посуда, скатерти, столовые приборы и т. д. ) </p><p>У нас тихо и красиво. Находимся в Краснодаре в пяти минутах езды от \"Красной площади\".</p><p>У нас есть правила для наших гостей:<br />-Подростки до 18 лет только в сопровождении взрослых;<br />-Запрещены фейерверки;<br />-Запрещены хлопушки и конфетти, а также шары с наполнителями;<br />-Запрещены свечи. </p><p>Так же есть возможность оформления любых камерных мероприятий, флористика, декор. Стоимость обсуждается индивидуально.</p><p>Звоните, пишите, всегда рады видеть вас в гостях.</p>",
+      "descriptionHtml": null,
+      "developerUrl": null,
+      "developmentInfo": null,
+      "developmentOffers": null,
+      "disclaimer": null,
+      "discounts": null,
+      "employeeCvInfo": null,
+      "externalId": null,
+      "favoritesTotal": null,
+      "finishTime": 1718893005,
+      "flags": {
+        "hasCvPackage": false,
+        "hasEmployeeBalanceForCv": false,
+        "isAbuseEnabled": true,
+        "isAllowMails": true,
+        "isBuyOrRentEstate": false,
+        "isBxCarOwnerShown": false,
+        "isCVOpenAccess": true,
+        "isCarOwnerShown": false,
+        "isChargeableCV": false,
+        "isDevelopmentSell": false,
+        "isHasCvPackage": false,
+        "isHasEmployeeBalanceForCv": false,
+        "isItemDisclaimer": false,
+        "isLongRent": false,
+        "isMessageEnabled": true,
+        "isRentEstate": false,
+        "isSecondarySell": false,
+        "isShortRent": true,
+        "isShowMapSimilar": false,
+        "isShowMapSimilarButtonEnabled": false,
+        "isShowNotes": false,
+        "isShowSimilar": true,
+        "isStatsExpanded": false,
+        "isUsedCar": false,
+        "isVan": false
+      },
+      "formattedPrice": {
+        "currencySign": "₽",
+        "discount": null,
+        "formatedString": "8 000&nbsp;₽ за сутки",
+        "isHasValue": true,
+        "isWasLowered": false,
+        "normalizedPricePostFix": " за сутки",
+        "oldString": "",
+        "postfix": "за сутки",
+        "rubPricePostfix": "₽ за сутки",
+        "string": "8 000",
+        "value": 8000
+      },
+      "geo": {
+        "address": "Краснодарский край, Краснодар, садовое товарищество Дружба-1, 143",
+        "coords": {
+          "lat": 45.0901995587049,
+          "lng": 38.930488080870646,
+          "zoom": 16
+        },
+        "references": [
+          {
+            "after": null,
+            "afterWithIcon": null,
+            "colors": [],
+            "content": "р-н Прикубанский"
+          }
+        ]
+      },
+      "hasProblemStatus": false,
+      "hasWysiwyg": false,
+      "houseCatalogPageUrl": null,
+      "houseParams": {
+        "data": {
+          "config": {
+            "isTwoColonGalleryAndParamLayout": false,
+            "oneColon": false,
+            "showResumeActions": false
+          },
+          "items": [],
+          "title": ""
+        }
+      },
+      "id": 2474889195,
+      "imageUrls": [
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.orin07a5DlGRZIxc78Hs7K9xDFcZcoxHkX8MUxVmClM.3y26r1TvU8KOBydfNVTWF7JcISYdzDJylfDgNXsnPkE",
+          "150x110": "https://30.img.avito.st/image/1/1.orin07a1DlG9ctBS78Hs7K9xDFEZeKBRzXEMUw.GwU9rVuuDeyJLt6RzYbqOT3nEao2C8xwNFaFGdC-Scc",
+          "640x480": "https://30.img.avito.st/image/1/1.orin07a5DlGResxU78Hs7K9xDFcZcoxZ0XcMUxVmClM.vAMJkbsR2sMycM4VYBAb-ibdeK0r359f8l8G6gyY-Ko",
+          "75x55": "https://30.img.avito.st/image/1/1.orin07a3DlGHcWKtoJCz7RBwDlsZ5g09EXA.bjUP-1TcdUyccQ-O9c87KJ08q5sQ3LsxIA4xv4w7QWY"
+        },
+        {
+          "1280x960": "https://00.img.avito.st/image/1/1.nzWFnba5M9yzKrHRt7e0YII_Mdo7PLHKszEx3jcoN94.2hF0jlfKyuiCi0Ofg70mopr01vufQiv3brkhj_F59ac",
+          "150x110": "https://00.img.avito.st/image/1/1.nzWFnba1M9yfPO3ft7e0YII_Mdw7Np3c7z8x3g.g1vGd4leUnKGoXMqeMUsBR_-6OjZwx7QhzDGavqLdL0",
+          "640x480": "https://00.img.avito.st/image/1/1.nzWFnba5M9yzNPHZt7e0YII_Mdo7PLHU8zkx3jcoN94.1lRVacqfPMpS9mHfIZ49NC1FnhSi51fvqzA8XP5t7Uc",
+          "75x55": "https://00.img.avito.st/image/1/1.nzWFnba3M9ylP19auruPbzI-M9Y7qDCwMz4.AGqGCOJhcTGY3AkJLQgdY3vHLZG_6f0LyudnIgmX6QM"
+        },
+        {
+          "1280x960": "https://80.img.avito.st/image/1/1.PLeie7a5kF6UzBJT1ndy46rZklgc2hJIlNeSXBDOlFw.53GrF1KuugUSe6qJdcBV9jSP7E6Hu0sWN1q6zI3Knv0",
+          "150x110": "https://80.img.avito.st/image/1/1.PLeie7a1kF642k5d1ndy46rZkl4c0D5eyNmSXA.tU4cWNVgSpekTiB3S_AdTEEuDdQXGqFY0svtXEuKc2k",
+          "640x480": "https://80.img.avito.st/image/1/1.PLeie7a5kF6U0lJb1ndy46rZklgc2hJW1N-SXBDOlFw.Mx20l7BcoeCvyPFg854hq7BWIuVXDLEynq41v9snSEw",
+          "75x55": "https://80.img.avito.st/image/1/1.PLeie7a3kF6C2fyeuzgt4hXYkFQcTpMyFNg.NmjtwD-xIkPU2jIdsHYgui-B5OfgbJJ4KT_oqPJqRSI"
+        },
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.Fg7Zhba5uufvMjjq-cVGWN4nuOFnJDjx7ym45WswvuU.dmM6Z5GcZvCBv5y2OYUCOIS2YA2fWy7SoDda9Mq6ATc",
+          "150x110": "https://30.img.avito.st/image/1/1.Fg7Zhba1uufDJGTk-cVGWN4nuOdnLhTnsye45Q.zCiZ25_U0bwxvkSrqEX-oYym3CC5jW9Zf1rJ5eMxIkc",
+          "640x480": "https://30.img.avito.st/image/1/1.Fg7Zhba5uufvLHji-cVGWN4nuOFnJDjvryG45WswvuU.E9s28K0ZT_hCDHKhgGi5BNCWzMES8qb2bzA2giZ_e_0",
+          "75x55": "https://30.img.avito.st/image/1/1.Fg7Zhba3uuf5J9ZzjNgFVG4muu1nsLmLbyY.FjngDaVUA4tSWtkSqfbeYwFCANr-76taBieQ8SAI-2E"
+        },
+        {
+          "1280x960": "https://60.img.avito.st/image/1/1.fVjdCba50bHrvlO8qwQwK9qr07djqFOn66XTs2-81bM.HFC4iZr9A8NtI1abJ1JFmwfCXRoO95ntTyJOxO2OHDQ",
+          "150x110": "https://60.img.avito.st/image/1/1.fVjdCba10bHHqA-yqwQwK9qr07Fjon-xt6vTsw.3zORzs-gkauutG2ctNNijo3P1c7fNvU5nrHeao09o8M",
+          "640x480": "https://60.img.avito.st/image/1/1.fVjdCba50bHroBO0qwQwK9qr07djqFO5q63Ts2-81bM.LBOxABrCYI8Y2LrNz-bihn9d2td2xGXH_wC_2u_dzz8",
+          "75x55": "https://60.img.avito.st/image/1/1.fVjdCba30bH9q71zxUlLAmqq0btjPNLda6o.hYI3JwnCUrZ4_q-hsCVeiKVODgMxN7Et12S0-OoPJso"
+        },
+        {
+          "1280x960": "https://20.img.avito.st/image/1/1.awiFTra5x-Gz-UXs32dAXYLsxec770X3s-LF4zf7w-M.aX16cR4WxMJZ7J_7lmIXy2gA5Yiof9vxiHrR93BsGoM",
+          "150x110": "https://20.img.avito.st/image/1/1.awiFTra1x-Gf7xni32dAXYLsxeE75Wnh7-zF4w.KW0DWzfvz9BrtG_-IaHa0jfCJQ8r6GyyhmB4GVpxSgE",
+          "640x480": "https://20.img.avito.st/image/1/1.awiFTra5x-Gz5wXk32dAXYLsxec770Xp8-rF4zf7w-M.G-jyuuTEoeOgH8BGn4_oBCPQ0iKXesMNF0_6MfulXMA",
+          "75x55": "https://20.img.avito.st/image/1/1.awiFTra3x-Gl7KsPuWh7UjLtx-s7e8SNM-0.Ygv5PL2xVqpuAG3PytnT6iDbrofOWV23cAB5MTbqXWA"
+        },
+        {
+          "1280x960": "https://50.img.avito.st/image/1/1.vK4Ddra5EEc1wZJKd2Tx3QTUEkG915JRNdoSRbHDFEU.T_OhES-2tyb8ICqUn5yBbr3ToJiukVeQxv5dpOmp9yc",
+          "150x110": "https://50.img.avito.st/image/1/1.vK4Ddra1EEcZ185Ed2Tx3QTUEke93b5HadQSRQ.1b4_70mWps2e7bja7jmtEUSsQPdWZPqnHZdP4e-HV3A",
+          "640x480": "https://50.img.avito.st/image/1/1.vK4Ddra5EEc139JCd2Tx3QTUEkG915JPddISRbHDFEU.rjHrojJ9ANczJ_JsRwg94J73avInqExzIumIrnIE5-8",
+          "75x55": "https://50.img.avito.st/image/1/1.vK4Ddra3EEcj1HyHBDaK9LTVEE29QxMrtdU.IvXtnsBGlaSqFgQIyKplrmkuzs606kZiokdQQ5oroE8"
+        },
+        {
+          "1280x960": "https://40.img.avito.st/image/1/1.A-g-c7a6rwEIxC0MND8GzeTQqQuKULmDh9CtB57WrQ.UFgxpkk-GQ4dPhEiMndkXY0sesyMurVcpwfUaJDi7x0",
+          "150x110": "https://40.img.avito.st/image/1/1.A-g-c7a2rwEk0nECND8GzeTQrwuAfK_fidCt.J_eAeMwHPFvy_lkbA076U6kOf409DO9Q6rgAzhI23b0",
+          "640x480": "https://40.img.avito.st/image/1/1.A-g-c7a6rwEI2m0END8GzeTQqQuKUKfDj9CtB57WrQ.QDAB29rbh9NpWN08bMa6LDXNXJH_hbMvixHcOCiaf9M",
+          "75x55": "https://40.img.avito.st/image/1/1.A-g-c7awrwEe0cO_Z3tjb4jSpQse0cMDiA.mYiDHe9pzI6m1pfGgHu47Hh-Ax982Ok77SU5lIce87I"
+        },
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.VM9_p7a5-CZJEHorW7p6-30F-iDBBnowSQv6JM0S_CQ.cswW4GWEZGDZlF-7jMvCR2qtNptN7B_45KWek6wgAL8",
+          "150x110": "https://30.img.avito.st/image/1/1.VM9_p7a1-CZlBiYlW7p6-30F-ibBDFYmFQX6JA.5g-_ewXPgcXoXRDsnXS4PxYoDy8OlydKM8IRdhC_2-A",
+          "640x480": "https://30.img.avito.st/image/1/1.VM9_p7a5-CZJDjojW7p6-30F-iDBBnouCQP6JM0S_CQ.AO4eHTQ03S-uC-dTQx4e_cSiCcMlu_eX_on_faP5JcQ",
+          "75x55": "https://30.img.avito.st/image/1/1.VM9_p7a3-CZfBZS2d4QlkMgE-CzBkvtKyQQ.fRHw4f4M1Ng_VwBolliDNLOD76gFWQpFgLEna3IP2Go"
+        },
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.0vrbZ7a5fhPt0Pwe80CDz9nFfBVlxvwF7ct8EWnSehE.JJNP8bogdlPHQXv5hwWtkkAyoBb5ogp41hMIB_maBAk",
+          "150x110": "https://30.img.avito.st/image/1/1.0vrbZ7a1fhPBxqAQ80CDz9nFfBNlzNATscV8EQ.NyOPagZX_2bELfryWqUhmz9YETs8zjssrkNnK83QrYU",
+          "640x480": "https://30.img.avito.st/image/1/1.0vrbZ7a5fhPtzrwW80CDz9nFfBVlxvwbrcN8EWnSehE.FqksXNsHbCuZCOBMaypDB9HBFbmqt0jNiIQvO-RlhgI",
+          "75x55": "https://30.img.avito.st/image/1/1.0vrbZ7a3fhP7xRKP6TuipWzEfhllUn1_bcQ.Y94vvtyj39XG2q5sZ8SsSFkSzGE6Hw4SSI12Aindem0"
+        },
+        {
+          "1280x960": "https://70.img.avito.st/image/1/1.9ls2v7a6WrIACNi_Vqj0fuwcXLiCnEwwjxxYtJYaWA.d2buiNtSgaqLmYLm8epA2obXhjV5oMhiOudZiYrxjzU",
+          "150x110": "https://70.img.avito.st/image/1/1.9ls2v7a2WrIsHoSxVqj0fuwcWriIsFpsgRxY.VYwLWT7f4O5J6OGivXU4oBFG8xHPAJneiVP1f2TgGHo",
+          "640x480": "https://70.img.avito.st/image/1/1.9ls2v7a6WrIAFpi3Vqj0fuwcXLiCnFJwhxxYtJYaWA.2UmW01z2N4qqhc5WFOCX97G9x0j-1q5rJMzuKh3B5dY",
+          "75x55": "https://70.img.avito.st/image/1/1.9ls2v7awWrIWHTZmNLCW3IAeULgWHTawgA.zWA40EpWi24j-cICVV_22jc_R8axV-EPdXOLPWWR8_g"
+        },
+        {
+          "1280x960": "https://20.img.avito.st/image/1/1.sYEu1ba5HWgYYp9lQMP_6Dl3H26QdJ9-GHkfapxgGWo.hSBSBnz6kuCWAbExlWvj7lFChlVkeN3wNp-PCNYnsrM",
+          "150x110": "https://20.img.avito.st/image/1/1.sYEu1ba1HWg0dMNrQMP_6Dl3H2iQfrNoRHcfag.5ecVDhY3ay2mW8ihkz8hKvaw6pK2dAVqtlm8VNRscYg",
+          "640x480": "https://20.img.avito.st/image/1/1.sYEu1ba5HWgYfN9tQMP_6Dl3H26QdJ9gWHEfapxgGWo.IIgj64EY1W7BAzdYEyQPcVfVJNKDB2WcClqXbrrmBIU",
+          "75x55": "https://20.img.avito.st/image/1/1.sYEu1ba3HWgOd3GyLZady5l2HWKQ4B4EmHY.FqLfH9J7lU33LbsXjHrQ30g21lX8nkPRXRba9Mb4sfw"
+        },
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.j3cAJba5I542kqGTEh-aZyKHIZi-hKGINokhnLKQJ5w.DXbOvPbSdamrwnsj2veIF219dgXsehvaQzrhv92_6PI",
+          "150x110": "https://30.img.avito.st/image/1/1.j3cAJba1I54ahP2dEh-aZyKHIZ6-jo2eaochnA.9s3aNQEOzm773WMNOfysvErLF8a0svgSU-za3tOaWF8",
+          "640x480": "https://30.img.avito.st/image/1/1.j3cAJba5I542jOGbEh-aZyKHIZi-hKGWdoEhnLKQJ5w.z-J0-k87FwOmzOtSSUs-Abp6hY4uqoowBokbntOWoO8",
+          "75x55": "https://30.img.avito.st/image/1/1.j3cAJba3I54gh084Lz3aCLeGI5S-ECDytoY.1DSl5SMYeTmFFeORr6Keh_z-vwU_HJXTgUjuc87nihc"
+        },
+        {
+          "1280x960": "https://10.img.avito.st/image/1/1.SMQWpLa65C0gE2YgColK4cwH4ieih_KvrwfmK7YB5g.kmm5d1CLxkDvN1vagK9abyIAC2JZqmN7CRRRPF6HZ38",
+          "150x110": "https://10.img.avito.st/image/1/1.SMQWpLa25C0MBTouColK4cwH5Ceoq-TzoQfm.SznPqtl3F2UhM2dbR6UlK2ei1_6Fi3enD4EyoJvYM40",
+          "640x480": "https://10.img.avito.st/image/1/1.SMQWpLa65C0gDSYoColK4cwH4ieih-zvpwfmK7YB5g.114cGPZO0RnlIsg3GDTaMtFHIUX63-Ew3Fb-rlZa2bk",
+          "75x55": "https://10.img.avito.st/image/1/1.SMQWpLaw5C02BoiFLqsoQ6AF7ic2BogvoA.7GJ-K4WSD9reDEex2XyASa-S14n4kdOSGBN2RWjd06w"
+        },
+        {
+          "1280x960": "https://70.img.avito.st/image/1/1.TUIhxba54asXcmOmN9gDKzZn462fZGO9F2njqZNw5ak.M2LrfX0iNK-km3-e574KnsnCbfdvCme2mibdG_bfXO0",
+          "150x110": "https://70.img.avito.st/image/1/1.TUIhxba14as7ZD-oN9gDKzZn46ufbk-rS2fjqQ.vfnXjMZhkqnicU3EWCAKJ5oaeyY_lY0KsoPfFC2MTP0",
+          "640x480": "https://70.img.avito.st/image/1/1.TUIhxba54asXbCOuN9gDKzZn462fZGOjV2HjqZNw5ak.T4W3WQYJSeVS7V6nwGQathjh4dRjSaL1IYcHOiDY0OI",
+          "75x55": "https://70.img.avito.st/image/1/1.TUIhxba34asBZ40JKYZhCJZm4aGf8OLHl2Y.Gem9Hh781bWhEj6M0RtRxhObItygJI0Qy5RgczUN2E8"
+        },
+        {
+          "1280x960": "https://10.img.avito.st/image/1/1.64PfaLa5R2rp38VnhVP-k_3KRWxhycV86cRFaG3dQ2g.6cIGSTpQy5pdCZbsaW5ohgmHy8aPYjgsF3dKm5MsByg",
+          "150x110": "https://10.img.avito.st/image/1/1.64PfaLa1R2rFyZlphVP-k_3KRWphw-lqtcpFaA._2jgzN-J2J0cCgj_D5oUz8vlT36ms5DGhWW01_nyf8I",
+          "640x480": "https://10.img.avito.st/image/1/1.64PfaLa5R2rpwYVvhVP-k_3KRWxhycViqcxFaG3dQ2g.OPehUlFRmRIIClegQIWSXQ9YYf9mQ-gbd-p_lw-s6qE",
+          "75x55": "https://10.img.avito.st/image/1/1.64PfaLa3R2r_yiuE8XC-_GjLR2BhXUQGacs.BHuF_DeF1ec1_5dHFLHQLP0dvH70USSt52Q2rj7jr90"
+        },
+        {
+          "1280x960": "https://40.img.avito.st/image/1/1.retUp7a6AQJiEIMPAvGozo4EBwjghBeA7QQDBPQCAw.Y3QHWSFuzIEepx6HRN3s46EkLu4kMqxPmilHt7N2xrc",
+          "150x110": "https://40.img.avito.st/image/1/1.retUp7a2AQJOBt8BAvGozo4EAQjqqAHc4wQD.8x01FXtLHcDa8hDwwkP1sXYsa_dXi22yuiS_sP7mn7s",
+          "640x480": "https://40.img.avito.st/image/1/1.retUp7a6AQJiDsMHAvGozo4EBwjghAnA5QQDBPQCAw.B5SdZnA1T5adxxevh0BZt1UUxIObJhmDkKoTov5HReg",
+          "75x55": "https://40.img.avito.st/image/1/1.retUp7awAQJ0BW3gF6_NbOIGCwh0BW0A4g.uhUljxPuwixpm1MXljczkm6yoFmAff1o6M6Mtw9kxVo"
+        },
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.Wjzjxba59tXVcnTY28gXT-Rn9NNdZHTD1Wn011Fw8tc.u3HKQCYaRXEikkyzwLkV2VjQrMBRQzM4vbYHuGkxdLg",
+          "150x110": "https://30.img.avito.st/image/1/1.Wjzjxba19tX5ZCjW28gXT-Rn9NVdbljViWf01w.R2nT2y7z1NsOJL8DS8wdHl53Jn6K_EI_zTq4a5hee1c",
+          "640x480": "https://30.img.avito.st/image/1/1.Wjzjxba59tXVbDTQ28gXT-Rn9NNdZHTdlWH011Fw8tc.IfT8R2Wha5pUJZQJ21Kn3lNKmDIiCTPY8D9hlRpUZ8g",
+          "75x55": "https://30.img.avito.st/image/1/1.Wjzjxba39tXDZ5pZ-4VsZlRm9t9d8PW5VWY.IpoBQk3e_CrUqdIH4qFYINiNZSr3rYBsYEM5I5fXchs"
+        },
+        {
+          "1280x960": "https://60.img.avito.st/image/1/1.Y2JmoLa6z4tQF02GLM1mR7wDyYHSg9kJ3wPNjcYFzQ.zxIDSoJL9k-Hr2ihPNTHkVt7pcn1-0hzX_e_CWvwE0Y",
+          "150x110": "https://60.img.avito.st/image/1/1.Y2JmoLa2z4t8ARGILM1mR7wDz4HYr89V0QPN.Bd9KtKyk4JZIHQ_z7L5w5nc72z8QNxY6sB5NW37E5VY",
+          "640x480": "https://60.img.avito.st/image/1/1.Y2JmoLa6z4tQCQ2OLM1mR7wDyYHSg8dJ1wPNjcYFzQ.grsttw0h-Ri-mcgavjNQ8hiKXeeabZ1zX4MDg4y54LI",
+          "75x55": "https://60.img.avito.st/image/1/1.Y2JmoLawz4tGAqN1HqgD5dABxYFGAqOJ0A.dwLnYgRW9mdudB480BJ7wD-qsRHXQKdonVwJTz5rYxw"
+        },
+        {
+          "1280x960": "https://90.img.avito.st/image/1/1.3m_357a5cobBUPCLx6CdX9VFcIBJRvCQwUtwhEVSdoQ.rqSdLN5R9DnxeixSS_uFgWKKgGCvL4QSvOsJv6wHjOM",
+          "150x110": "https://90.img.avito.st/image/1/1.3m_357a1cobtRqyFx6CdX9VFcIZJTNyGnUVwhA.EAy970qTBhYHlwxRckoagI4h-yKFJWueo_pVczyYqTM",
+          "640x480": "https://90.img.avito.st/image/1/1.3m_357a5cobBTrCDx6CdX9VFcIBJRvCOgUNwhEVSdoQ.-_9-EhQsen7G2xBswH8XOPJGlJnt2BWUdPab8CfYw24",
+          "75x55": "https://90.img.avito.st/image/1/1.3m_357a3cobXRR4CpamrEEBEcoxJ0nHqQUQ.Z2Dpwil3cvMnoy5Fmsjtu0PbjTlHndvG_KMXZU9mpEc"
+        },
+        {
+          "1280x960": "https://00.img.avito.st/image/1/1.4LqXc7a5TFOhxM5e2zijirXRTlUp0s5Fod9OUSXGSFE.OBFAAtE2iO6DaSQL_83fHRSOjtYjl1hAcJmBDXRyVEY",
+          "150x110": "https://00.img.avito.st/image/1/1.4LqXc7a1TFON0pJQ2zijirXRTlMp2OJT_dFOUQ.fmVk1aOxCL89fw_UIGBMrDxuu9J5kakuIan3mRb8qQc",
+          "640x480": "https://00.img.avito.st/image/1/1.4LqXc7a5TFOh2o5W2zijirXRTlUp0s5b4ddOUSXGSFE.c1kPsazhe-OdksNTqRXJtm0mdZ-f8NKTI3hKjHjGm2I",
+          "75x55": "https://00.img.avito.st/image/1/1.4LqXc7a3TFO30SCryT2VxSDQTFkpRk8_IdA.xD9Wtr9bMT_ByxNifjZwGyJ387I8AbC1ZfIGXB3szNg"
+        },
+        {
+          "1280x960": "https://20.img.avito.st/image/1/1.Jbm8h7a5iVCKMAtd-vtmiZ4li1YCJgtGiiuLUg4yjVI.f7JXjD9-HC2suIvDUja4VgQu2U8M2S_GZRsAC3-JeXs",
+          "150x110": "https://20.img.avito.st/image/1/1.Jbm8h7a1iVCmJldT-vtmiZ4li1ACLCdQ1iWLUg.zO4nR9-SzHi5ETjjATK_dOxGzjDaNafqDjYmNh8vymI",
+          "640x480": "https://20.img.avito.st/image/1/1.Jbm8h7a5iVCKLktV-vtmiZ4li1YCJgtYyiOLUg4yjVI.knlfMp-xfDQDGq5qKV8_Osx7HwFD4QaVZCi4gF6sMJs",
+          "75x55": "https://20.img.avito.st/image/1/1.Jbm8h7a3iVCcJeWi1clQxgskiVoCsoo8CiQ.aCtaFGL0gTXJ4M8r7RVIYGgKyo6Rt2wnGzs9L1MNziw"
+        },
+        {
+          "1280x960": "https://60.img.avito.st/image/1/1.0Dggc7a5fNEWxP7cDEjFKALRftee0v7HFt9-05LGeNM.8U9XewOjqQeBjLFckkwkz4keifP_pxTMTCYhoq9ulJ0",
+          "150x110": "https://60.img.avito.st/image/1/1.0Dggc7a1fNE60qLSDEjFKALRftGe2NLRStF-0w.hhbjE8Tf580_gKsqKEvhsVoQV5UuvxEdokjGMPBCOzw",
+          "640x480": "https://60.img.avito.st/image/1/1.0Dggc7a5fNEW2r7UDEjFKALRftee0v7ZVtd-05LGeNM.hC5pudWeCMN_LLWMyHBDQycro7-jj0M0JGscglJ1ubE",
+          "75x55": "https://60.img.avito.st/image/1/1.0Dggc7a3fNEA0RBJDmuFR5fQfNueRn-9ltA.xFj8WzLoG4AV3-nIR4LNBhkZvy4Gqb4A4TJTM560JgI"
+        },
+        {
+          "1280x960": "https://20.img.avito.st/image/1/1.j9iIfba5IzG-yqE8mlekjY_fITc23KEnvtEhMzrIJzM.qvOuVOX6eVkbRz9CrJ0OmkoFCrEGJeJ7qJfDIT9hpEA",
+          "150x110": "https://20.img.avito.st/image/1/1.j9iIfba1IzGS3P0ymlekjY_fITE21o0x4t8hMw._5NAqy5Od8y1OqwtmKTuKUel3SqI51vy3wyhbMRHhL8",
+          "640x480": "https://20.img.avito.st/image/1/1.j9iIfba5IzG-1OE0mlekjY_fITc23KE5_tkhMzrIJzM.AXRW0A4wpzgwvD11qpHDwMKljWmCvrOEnA3MYtHYU2Y",
+          "75x55": "https://20.img.avito.st/image/1/1.j9iIfba3IzGo30-Xt1ufgj_eIzs2SCBdPt4.3jLmKBq_yacYwuVEWaBP3ADZ5hzK3Bm_q9X0hKLSEi0"
+        },
+        {
+          "1280x960": "https://70.img.avito.st/image/1/1._I3LH7a5UGT9qNJpvzTX2My9UmJ1vtJy_bNSZnmqVGY.mJR-acz1F65HNAoZRkINMBJfFafeGlVTpo4Ko5K-NzI",
+          "150x110": "https://70.img.avito.st/image/1/1._I3LH7a1UGTRvo5nvzTX2My9UmR1tP5kob1SZg.F7qT-odvJ5R84vFswFpziKw4XuQkbX4_WdTJ18E_NSE",
+          "640x480": "https://70.img.avito.st/image/1/1._I3LH7a5UGT9tpJhvzTX2My9UmJ1vtJsvbtSZnmqVGY.3STUP82H8y0XZlCOryfZf6t44n_6_WYLw2Nh5RbXUug",
+          "75x55": "https://70.img.avito.st/image/1/1._I3LH7a3UGTrvTyk9Tns13y8UG51KlMIfbw.jUGE9nUe_XVDoLJREObE-_8OkYMWhGhRcTSkPUf0-jk"
+        },
+        {
+          "1280x960": "https://30.img.avito.st/image/1/1.3P6zsba5cBeFBvIah_KfzpETchENEPIBhR1yFQEEdBU.Vaxu8KiRT7IBt9UDud3dn09uVqs8yShbG-x4ep-JPFc",
+          "150x110": "https://30.img.avito.st/image/1/1.3P6zsba1cBepEK4Uh_KfzpETchcNGt4X2RNyFQ.zUm9PLjbB9p_ulBQdE6h_PUWsHxIolvxulVSm6PXjFU",
+          "640x480": "https://30.img.avito.st/image/1/1.3P6zsba5cBeFGLISh_KfzpETchENEPIfxRVyFQEEdBU.qrjFwDMP3y27ZrZUx8FfojTiUVxxQ-s2XRNq8-NpMvk",
+          "75x55": "https://30.img.avito.st/image/1/1.3P6zsba3cBeTExyX5f-pgQQScB0NhHN7BRI.nwlTU77s4Ch_HCdiIo7AClmje63JLHpe6S5n6FreRBg"
+        },
+        {
+          "1280x960": "https://60.img.avito.st/image/1/1.l0Htera5O6jbzbmlzxjZKPrYOa5T27m-29Y5ql_PP6o.VCMOiMrTr_bp9JEkRTSiSq5Q3EMexngKFN774KRJSew",
+          "150x110": "https://60.img.avito.st/image/1/1.l0Htera1O6j32-WrzxjZKPrYOahT0ZWoh9g5qg.sbyvL1RiKubXA5NKx95tOYkArw_qYGRTl7c1xM9RT4Q",
+          "640x480": "https://60.img.avito.st/image/1/1.l0Htera5O6jb0_mtzxjZKPrYOa5T27mgm945ql_PP6o.8vQE1XOmbne7oDsgRd-9UpMx2Ajw0z9fLX0J9DtxMoM",
+          "75x55": "https://60.img.avito.st/image/1/1.l0Htera3O6jN2Fc-mjm7C1rZO6JTTzjEW9k.65t6eQD4AJxCbNJcoexpH0wrq_8jy3Sy4PuMFz92N9I"
+        },
+        {
+          "1280x960": "https://70.img.avito.st/image/1/1.DSmlULa5ocCT5yPNs2QZKofyo8Yb8SPWk_yjwhflpcI.SCr2gcRFIHfT8KUzCoY7d29nk1pTWSPrBpDBPLu9-MY",
+          "150x110": "https://70.img.avito.st/image/1/1.DSmlULa1ocC_8X_Ds2QZKofyo8Ab-w_Az_Kjwg.a-741qaAXgFGBXTNZETM2_k4cd5o41WGMmYMjPA_7DI",
+          "640x480": "https://70.img.avito.st/image/1/1.DSmlULa5ocCT-WPFs2QZKofyo8Yb8SPI0_SjwhflpcI.pq1m-iQU7ksGy9DDrdim8OzjhdqAjsz5h2g71eGLPok",
+          "75x55": "https://70.img.avito.st/image/1/1.DSmlULa3ocCF8s1ihElLVhLzocobZaKsE_M.fIp6ZcnjUu56NL-H8kTSPbZ-D9VXly7zRdvdcBe2LY4"
+        }
+      ],
+      "images": [
+        25568218239, 23821591106, 25568218081, 23821539531, 23782517664,
+        23821591222, 23782517857, 14577662942, 24258809737, 24258797839,
+        14577667371, 21611941228, 19993683538, 14577664917, 21611941776,
+        19993683510, 14577663344, 23782517639, 14577660862, 19960543491,
+        19960543805, 19960543224, 19993683469, 23821591122, 23821591073,
+        19960543233, 21611941962, 19973752272
+      ],
+      "isActive": true,
+      "isArchived": false,
+      "isBlocked": false,
+      "isClosed": false,
+      "isDeleted": false,
+      "isExpired": false,
+      "isFavorite": false,
+      "isFavoritesAdded": false,
+      "isFeesWaiting": false,
+      "isFinished": false,
+      "isInModeration": false,
+      "isItemActiveOrUserHasAccess": true,
+      "isNewDevelopmentsPromo": null,
+      "isNoAdsAuto": false,
+      "isRejected": false,
+      "isShopIsApproved": false,
+      "isShouldShowAdsPriceBanner": true,
+      "isShowBigDeal": false,
+      "isShowShopItemsSimilar": false,
+      "isShowShopLink": false,
+      "isShowShopShowPromoBlock": false,
+      "leasingCalculator": null,
+      "listingImage": 25568218239,
+      "listingImageUrl": "https://30.img.avito.st/image/1/1.orin07a5DlGResxU78Hs7K9xDFcZcoxZ0XcMUxVmClM.vAMJkbsR2sMycM4VYBAb-ibdeK0r359f8l8G6gyY-Ko",
+      "location": {
+        "coords": {
+          "lat": 45.035566,
+          "lng": 38.974711,
+          "zoom": 16
+        },
+        "name": "Краснодар",
+        "slug": "krasnodar"
+      },
+      "locationId": 633540,
+      "microCategoryId": 4933,
+      "moderation": {
+        "block": null,
+        "reject": null
+      },
+      "mortgageBroker": null,
+      "mortgageBuyButton": null,
+      "mortgageTeaser": null,
+      "phone": {
+        "isAnonymousNumber": true,
+        "isAnonymousProfile": true,
+        "isCalltracking": false,
+        "mask": "8 934 XXX-XX-XX",
+        "publicPhone": null,
+        "realPhone": null
+      },
+      "popularItemInfo": null,
+      "price": 8000,
+      "priceHint": null,
+      "priceList": null,
+      "realtyImv": null,
+      "realtyLayoutUrls": [],
+      "rentTermsParams": {
+        "data": {
+          "config": {
+            "isTwoColonGalleryAndParamLayout": false,
+            "oneColon": false,
+            "showResumeActions": false
+          },
+          "items": [],
+          "title": ""
+        }
+      },
+      "rootCategoryId": 4,
+      "rootCategorySlug": "nedvizhimost",
+      "rulesParams": {
+        "data": {
+          "config": {
+            "isTwoColonGalleryAndParamLayout": false,
+            "oneColon": false,
+            "showResumeActions": false
+          },
+          "items": [
+            {
+              "attributeId": 1361,
+              "description": "12",
+              "title": "Количество гостей"
+            },
+            {
+              "attributeId": 110651,
+              "description": "да",
+              "title": "Можно с детьми"
+            },
+            {
+              "attributeId": 110652,
+              "description": "нет",
+              "title": "Можно с животными"
+            },
+            {
+              "attributeId": 110650,
+              "description": "да",
+              "title": "Можно курить"
+            },
+            {
+              "attributeId": 110654,
+              "description": "да",
+              "title": "Разрешены вечеринки"
+            },
+            {
+              "attributeId": 110649,
+              "description": "да",
+              "title": "Есть отчётные документы"
+            }
+          ],
+          "title": "Правила"
+        }
+      },
+      "searchLocation": [
+        {
+          "current": true,
+          "hasMetroMap": false,
+          "id": 633540,
+          "isRegion": false,
+          "metroMap": false,
+          "name": "Краснодар",
+          "parentId": 632660
+        }
+      ],
+      "seller": {
+        "avatar": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4oC9OgBdFjI2lr0gwrC9OuKCvSg.PS8Fya89ZR5ADKbm1vVCuimbfyg1ljUG3aFZYXOzdEY",
+        "isRealtyDeveloper": false,
+        "tenureMedal": "января 2022",
+        "tenureSince": "silver",
+        "verification": {
+          "anyBadge": false,
+          "carOwnerBadge": null,
+          "hasRealtyVerificationBadge": false,
+          "isInnVerified": false,
+          "isVerifiedSeller": false,
+          "officialDealerBadge": null,
+          "verifiedPartnerBadge": null
+        }
+      },
+      "sellerBadgeBar": {
+        "badges": [
+          {
+            "action": null,
+            "description": null,
+            "id": 31,
+            "style": {
+              "backgroundColor": {
+                "value": "#CCECFF",
+                "valueDark": "#004078"
+              },
+              "backgroundPressedColor": null,
+              "fontColor": {
+                "value": "#000000",
+                "valueDark": "#E3E3E3"
+              },
+              "icon": null
+            },
+            "title": "Документы проверены"
+          },
+          {
+            "action": null,
+            "description": null,
+            "id": 102,
+            "style": {
+              "backgroundColor": {
+                "value": "#CCECFF",
+                "valueDark": "#004078"
+              },
+              "backgroundPressedColor": null,
+              "fontColor": {
+                "value": "#000000",
+                "valueDark": "#E3E3E3"
+              },
+              "icon": null
+            },
+            "title": "Эковклад: −142 кг CO₂"
+          }
+        ]
+      },
+      "seo": {
+        "canonicalUrl": "",
+        "description": "Дом 60 м² на участке 6,5 сот. сдаётся в Краснодаре. Объявление в Краснодаре на Авито. 🚩🚩ОБРАТИТЕ ВНИМАНИЕ 🚩 В ДОМЕ ТОЛЬКО ДВА СПАЛЬНЫХ МЕСТА ( диван). Сдаётся очень уютный дом с камином для проведения камерных мероприятий. Свидания, свадьбы, девичники, дни рождения, фотосессии, гендерпати ,или просто выехать из квартиры. Подышать свежим воздухом,пожарить мясо на гриле, погреться у камина, попить чай из самовара. Стоимость аренды зависит от количества гостей и дня недели. Аренда для двоих в будние дни 8000 рублей, в пят., суб.,воскр. и праздничные дни 10000 рублей. За каждого последующего гостя...",
+        "imageAlt": "Дом 60 м² на участке 6,5 сот.",
+        "title": "Дом 60 м² на участке 6,5 сот. в аренду в Краснодаре | Снять дом в Краснодаре | Авито"
+      },
+      "serviceBooking": null,
+      "serviceEducation": null,
+      "shop": {
+        "domain": "",
+        "id": null,
+        "isShop": false,
+        "name": "Виталий"
+      },
+      "shortTermRent": {
+        "buyerBonuses": "Вернём 5% бонусами",
+        "hasActiveBooking": false,
+        "hasOrders": false,
+        "isBookingWidgetAvailable": true,
+        "isCanEnableService": false,
+        "isPricesWidgetAvailable": false,
+        "isServiceEnabled": true,
+        "isShortTermRentCategory": true,
+        "workflow": "post-paid"
+      },
+      "socialProof": null,
+      "sortFormatedDate": "вчера в 19:25",
+      "sparePart": null,
+      "sparePartsCost": null,
+      "specialProjectId": null,
+      "statusId": 4,
+      "title": "Дом 60 м² на участке 6,5 сот.",
+      "url": "/krasnodar/doma_dachi_kottedzhi/dom_60m_na_uchastke_65sot._2474889195",
+      "userId": 0,
+      "uxFeedbackConfigs": [
+        {
+          "pollId": "productCartStrHouse",
+          "triggers": {}
+        }
+      ],
+      "vehicleType": null,
+      "video": null
+    },
+    "itemReviews": {
+      "header": {
+        "caption": "36 отзывов",
+        "scoreText": "5,0",
+        "scoreValue": 5
+      },
+      "main": null
+    },
+    "itemReviewsCommon": {
+      "header": {
+        "action": {
+          "pageFrom": null,
+          "title": null,
+          "type": "seller",
+          "url": null
+        },
+        "caption": "36 отзывов",
+        "scoreText": "5,0",
+        "scoreValue": 5
+      },
+      "main": null,
+      "type": "seller"
+    },
+    "itemSocials": {
+      "abuse": "{\"itemId\":2474889195,\"isAuth\":false}",
+      "description": "ОБРАТИТЕ ВНИМАНИЕ            В ДОМЕ ТОЛЬКО ДВА             СПАЛЬНЫХ МЕСТА ( диван). Сдаётся очень уютный дом с камином для пр...",
+      "image": "https://www.avito.ru/img/share/auto/25568218239",
+      "isAbuseEnabled": true,
+      "isRecaptchaEnabled": true,
+      "isShareEnabled": true,
+      "title": "Объявление на Авито - Дом 60 м² на участке 6,5 сот.",
+      "url": "https://www.avito.ru/krasnodar/doma_dachi_kottedzhi/dom_60m_na_uchastke_65sot._2474889195"
+    },
+    "linkLoggerShop": null,
+    "messengerSocketFallback": "https://socket.avito.ru/fallback",
+    "nativeVideo": {
+      "moderationText": null,
+      "position": 0,
+      "thumbnail": {
+        "1280x960": "https://70.img.avito.st/image/1/1.iC1CsLa5PsR0B6bJXoqXDTISJsL8EabSdBwmxvAFIMY.RW8jpuSoiRgo1WBq0xBIwabH8B2LiHVgAyl9yLk34LM",
+        "150x110": "https://70.img.avito.st/image/1/1.iC1CsLa1PsRYEfrHXoqXDTISJsT8G4rEKBImxg.tbRKxqAY_EEYy9kNko8F65Nn59twBPdrCffPenOYud8",
+        "640x480": "https://70.img.avito.st/image/1/1.iC1CsLa5PsR0GebBXoqXDTISJsL8EabMNBQmxvAFIMY.Br_lDeJ_McgVxtmWhvtO_R_waJNeQy7nYC5oevavssU",
+        "75x55": "https://70.img.avito.st/image/1/1.iC1CsLa3PsRiEkhsbaLtAPUTJM78hSeo9BM.kn47Dyx7KriBDZBZwbkaXTkSXi6fWzFJmqoaIboBO2s"
+      },
+      "url": "https://kinescope.io/tQuyJTRvWK3sE11YjKux9w/master.m3u8"
+    },
+    "newStyle": true,
+    "nonce": "VI+USO3EiGx51+Up+degtA==",
+    "normalizedPricePostfix": " за сутки",
+    "offers": null,
+    "paramsBlock": {
+      "config": {
+        "isTwoColonGalleryAndParamLayout": false,
+        "oneColon": false,
+        "showResumeActions": false
+      },
+      "items": [
+        {
+          "attributeId": 118971,
+          "description": "1",
+          "title": "Количество комнат"
+        },
+        {
+          "attributeId": 522,
+          "description": "60 м²",
+          "title": "Площадь дома"
+        },
+        {
+          "attributeId": 524,
+          "description": "6.5 сот.",
+          "title": "Площадь участка"
+        },
+        {
+          "attributeId": 760,
+          "description": "1",
+          "title": "Этажей в доме"
+        },
+        {
+          "attributeId": 118599,
+          "description": "есть",
+          "title": "Терраса или веранда"
+        },
+        {
+          "attributeId": 118594,
+          "description": "в доме",
+          "title": "Санузел"
+        },
+        {
+          "attributeId": 118600,
+          "description": "электричество, отопление, канализация",
+          "title": "Коммуникации"
+        },
+        {
+          "attributeId": 1366,
+          "description": "кондиционер, холодильник, микроволновка, водонагреватель, фен, утюг",
+          "title": "Техника"
+        },
+        {
+          "attributeId": 1364,
+          "description": "Wi-Fi",
+          "title": "Интернет и ТВ"
+        },
+        {
+          "attributeId": 118584,
+          "description": "парковочное место",
+          "title": "Парковка"
+        },
+        {
+          "attributeId": 118602,
+          "description": "асфальтированная дорога",
+          "title": "Транспортная доступность"
+        },
+        {
+          "attributeId": 118603,
+          "description": "магазин, аптека",
+          "title": "Инфраструктура"
+        },
+        {
+          "attributeId": 110655,
+          "description": "10000 ₽",
+          "title": "Залог"
+        }
+      ],
+      "title": "О доме"
+    },
+    "paramsDto": {
+      "autoCatalogTitle": "Все характеристики",
+      "comparisonId": 0,
+      "comparisonModelId": 0,
+      "comparisonVendorId": 0,
+      "isTwoColonGalleryAndParamLayout": false,
+      "itemExportKey": "1716836036_7dd2eba16b8d89359e314fd0db1607a066eb1d1cab2781902a506efa54b9c762",
+      "itemId": 2474889195,
+      "itemUrl": "/krasnodar/doma_dachi_kottedzhi/dom_60m_na_uchastke_65sot._2474889195",
+      "items": [
+        {
+          "attributeId": 118971,
+          "description": "1",
+          "title": "Количество комнат"
+        },
+        {
+          "attributeId": 522,
+          "description": "60 м²",
+          "title": "Площадь дома"
+        },
+        {
+          "attributeId": 524,
+          "description": "6.5 сот.",
+          "title": "Площадь участка"
+        },
+        {
+          "attributeId": 760,
+          "description": "1",
+          "title": "Этажей в доме"
+        },
+        {
+          "attributeId": 118599,
+          "description": "есть",
+          "title": "Терраса или веранда"
+        },
+        {
+          "attributeId": 118594,
+          "description": "в доме",
+          "title": "Санузел"
+        },
+        {
+          "attributeId": 118600,
+          "description": "электричество, отопление, канализация",
+          "title": "Коммуникации"
+        },
+        {
+          "attributeId": 1366,
+          "description": "кондиционер, холодильник, микроволновка, водонагреватель, фен, утюг",
+          "title": "Техника"
+        },
+        {
+          "attributeId": 1364,
+          "description": "Wi-Fi",
+          "title": "Интернет и ТВ"
+        },
+        {
+          "attributeId": 118584,
+          "description": "парковочное место",
+          "title": "Парковка"
+        },
+        {
+          "attributeId": 118602,
+          "description": "асфальтированная дорога",
+          "title": "Транспортная доступность"
+        },
+        {
+          "attributeId": 118603,
+          "description": "магазин, аптека",
+          "title": "Инфраструктура"
+        },
+        {
+          "attributeId": 110655,
+          "description": "10000 ₽",
+          "title": "Залог"
+        }
+      ],
+      "modelCardUrl": "",
+      "newStyle": true,
+      "oneColon": false,
+      "paramsBlockTitle": "О доме",
+      "searchHash": "wjd6116jux5gk5tjjws1oqlw2qrkj31",
+      "showResumeActions": false
+    },
+    "priceBadge": null,
+    "priceDataDTO": {
+      "depositCommission": "",
+      "isPriceTooltipVisible": false,
+      "isWasLowered": false,
+      "normalizedPrice": null,
+      "pricesWithDimensionAndCurrency": [
+        {
+          "currencies": [
+            {
+              "currencyCode": "RUB",
+              "sign": "₽",
+              "value": 8000
+            }
+          ],
+          "title": "в день"
+        },
+        {
+          "currencies": [
+            {
+              "currencyCode": "RUB",
+              "sign": "₽",
+              "value": 56000
+            }
+          ],
+          "title": "в неделю"
+        }
+      ],
+      "sellerDesc": "Арендодатель"
+    },
+    "priceString": "8 000&nbsp;₽ за сутки",
+    "publicProfile": {
+      "closedItemsCount": null,
+      "link": "https://www.avito.ru/brands/46b641783b9313b8df98ce28ea241337?gdlkerfdnwq=101&iid=2474889195&item_type=str_trx&page_from=from_item_header",
+      "summary": "2 объявления"
+    },
+    "rating": {
+      "activeReviewsCount": 38,
+      "scoreFloat": 5,
+      "summary": "36 отзывов",
+      "userKey": "2427ce9fa404900192238b1efd74ad902e9ce48f24f0c70ea8c7d8675ea00ec1"
+    },
+    "ratingAction": null,
+    "realtyIcebreakersPosition": null,
+    "realtyImv": null,
+    "recallmeRequest": null,
+    "reservationInfo": null,
+    "resumeParamsBlock": null,
+    "rmp": {
+      "analyticParams": {
+        "banner_pagetype": "item"
+      },
+      "configurations": {},
+      "enableEventSampling": false,
+      "enabledBanners": {},
+      "pinSidePositions": false,
+      "sellingSystems": []
+    },
+    "rubPricePostfix": "₽ за сутки",
+    "rubSign": "₽",
+    "searchFormDto": {
+      "changeLocations": {
+        "geoRichTitle": {
+          "attributes": {
+            "districts": {
+              "type": "attributes",
+              "value": {
+                "list": [
+                  {
+                    "style": null,
+                    "type": "fontColor",
+                    "value": "#757575",
+                    "valueName": "gray54"
+                  }
+                ],
+                "title": "район"
+              }
+            },
+            "location": {
+              "type": "attributes",
+              "value": {
+                "list": [
+                  {
+                    "style": null,
+                    "type": "fontColor",
+                    "value": "#000000",
+                    "valueName": "black"
+                  }
+                ],
+                "title": "Краснодар"
+              }
+            }
+          },
+          "text": "{{location}}, {{districts}}"
+        },
+        "initialRequestCounter": true,
+        "showSmallRadius": false
+      },
+      "features": {
+        "useReload": true
+      },
+      "geoMap": {
+        "params": {
+          "defaultCoords": {
+            "latitude": 45.035566,
+            "longitude": 38.974711,
+            "zoom": 16
+          },
+          "latitude": 45.035566,
+          "longitude": 38.974711,
+          "zoom": 16
+        }
+      },
+      "searchCore": {
+        "activeTab": "district",
+        "categoryId": 25,
+        "geoCoords": [45.035566, 38.974711],
+        "localPriority": 0,
+        "locationId": 633540,
+        "locationName": "Краснодар",
+        "searchRadius": null,
+        "showElements": ["districts"]
+      },
+      "verticalLogo": {
+        "href": "/",
+        "postfixHref": "",
+        "postfixTitle": "",
+        "title": "Авито — сайт объявлений",
+        "type": ""
+      },
+      "rubricators": {
+        "categorySelect": [
+          {
+            "categoryId": 1,
+            "count": 7,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_1",
+            "id": 25984,
+            "level": 1,
+            "mcId": 2,
+            "name": "Транспорт",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 9,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "iconUrl": "cat_9",
+                "id": 25985,
+                "level": 2,
+                "mcId": 14,
+                "name": "Автомобили",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/avtomobili?cd=1"
+              },
+              {
+                "categoryId": 14,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "iconUrl": "cat_14",
+                "id": 25986,
+                "level": 2,
+                "mcId": 15,
+                "name": "Мотоциклы и мототехника",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/mototsikly_i_mototehnika?cd=1"
+              },
+              {
+                "categoryId": 81,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "iconUrl": "cat_81",
+                "id": 26025,
+                "level": 2,
+                "mcId": 16,
+                "name": "Грузовики и спецтехника",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/gruzoviki_i_spetstehnika?cd=1"
+              },
+              {
+                "categoryId": 114,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 77268,
+                "level": 2,
+                "mcId": 4128,
+                "name": "Аренда спецтехники",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "716": 10210,
+                  "717": 10222
+                },
+                "subs": [],
+                "url": "/krasnodar/predlozheniya_uslug/transport_perevozki/arenda_spetstekhniki-ASgBAgICAkSYC8SfAZoL3J8B?cd=1"
+              },
+              {
+                "categoryId": 11,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "iconUrl": "cat_11",
+                "id": 26040,
+                "level": 2,
+                "mcId": 12,
+                "name": "Водный транспорт",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/vodnyy_transport?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "iconUrl": "cat_10",
+                "id": 25999,
+                "level": 2,
+                "mcId": 17,
+                "name": "Запчасти и аксессуары",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary?cd=1"
+              }
+            ],
+            "url": "/krasnodar/transport?cd=1"
+          },
+          {
+            "categoryId": 4,
+            "count": 6,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_4",
+            "id": 26113,
+            "level": 1,
+            "mcId": 5,
+            "name": "Недвижимость",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 24,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 35451,
+                "level": 2,
+                "mcId": 255,
+                "name": "Купить жильё",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "201": 1059
+                },
+                "subs": [],
+                "url": "/krasnodar/kvartiry/prodam-ASgBAgICAUSSA8YQ?cd=1"
+              },
+              {
+                "categoryId": 24,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 35452,
+                "level": 2,
+                "mcId": 254,
+                "name": "Путешествия",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "201": 1060,
+                  "504": 5257
+                },
+                "subs": [],
+                "url": "/krasnodar/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg?cd=1"
+              },
+              {
+                "categoryId": 24,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 35453,
+                "level": 2,
+                "mcId": 254,
+                "name": "Снять долгосрочно",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "201": 1060,
+                  "504": 5256
+                },
+                "subs": [],
+                "url": "/krasnodar/kvartiry/sdam/na_dlitelnyy_srok-ASgBAgICAkSSA8gQ8AeQUg?cd=1"
+              },
+              {
+                "categoryId": 42,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 35454,
+                "level": 2,
+                "mcId": 35,
+                "name": "Коммерческая недвижимость",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/kommercheskaya_nedvizhimost?cd=1"
+              },
+              {
+                "categoryId": 26,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 35455,
+                "level": 2,
+                "mcId": 33,
+                "name": "Другие категории",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/zemelnye_uchastki?cd=1"
+              }
+            ],
+            "url": "/krasnodar/nedvizhimost?cd=1"
+          },
+          {
+            "categoryId": 110,
+            "count": 3,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_110",
+            "id": 26400,
+            "level": 1,
+            "mcId": 10,
+            "name": "Работа",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 111,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26427,
+                "level": 2,
+                "mcId": 61,
+                "name": "Ищу работу",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/vakansii?cd=1"
+              },
+              {
+                "categoryId": 112,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26401,
+                "level": 2,
+                "mcId": 62,
+                "name": "Ищу сотрудника",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/rezume?cd=1"
+              }
+            ],
+            "url": "/krasnodar/rabota?cd=1"
+          },
+          {
+            "categoryId": 114,
+            "count": 30,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_114",
+            "id": 26486,
+            "level": 1,
+            "mcId": 63,
+            "name": "Услуги",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [],
+            "url": "/krasnodar/predlozheniya_uslug?cd=1"
+          },
+          {
+            "categoryId": 5,
+            "count": 6,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_5",
+            "id": 26127,
+            "level": 1,
+            "mcId": 6,
+            "name": "Личные вещи",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 27,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26128,
+                "level": 2,
+                "mcId": 37,
+                "name": "Одежда, обувь, аксессуары",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/odezhda_obuv_aksessuary?cd=1"
+              },
+              {
+                "categoryId": 29,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26153,
+                "level": 2,
+                "mcId": 38,
+                "name": "Детская одежда и обувь",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/detskaya_odezhda_i_obuv?cd=1"
+              },
+              {
+                "categoryId": 30,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26173,
+                "level": 2,
+                "mcId": 39,
+                "name": "Товары для детей и игрушки",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/tovary_dlya_detey_i_igrushki?cd=1"
+              },
+              {
+                "categoryId": 88,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26187,
+                "level": 2,
+                "mcId": 41,
+                "name": "Красота и здоровье",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/krasota_i_zdorove?cd=1"
+              },
+              {
+                "categoryId": 28,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26183,
+                "level": 2,
+                "mcId": 40,
+                "name": "Часы и украшения",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/chasy_i_ukrasheniya?cd=1"
+              }
+            ],
+            "url": "/krasnodar/lichnye_veschi?cd=1"
+          },
+          {
+            "categoryId": 2,
+            "count": 7,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_2",
+            "id": 26047,
+            "level": 1,
+            "mcId": 3,
+            "name": "Для дома и дачи",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 19,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26088,
+                "level": 2,
+                "mcId": 23,
+                "name": "Ремонт и строительство",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/remont_i_stroitelstvo?cd=1"
+              },
+              {
+                "categoryId": 20,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26073,
+                "level": 2,
+                "mcId": 21,
+                "name": "Мебель и интерьер",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/mebel_i_interer?cd=1"
+              },
+              {
+                "categoryId": 21,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26048,
+                "level": 2,
+                "mcId": 20,
+                "name": "Бытовая техника",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/bytovaya_tehnika?cd=1"
+              },
+              {
+                "categoryId": 82,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26087,
+                "level": 2,
+                "mcId": 18,
+                "name": "Продукты питания",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/produkty_pitaniya?cd=1"
+              },
+              {
+                "categoryId": 106,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26097,
+                "level": 2,
+                "mcId": 19,
+                "name": "Растения",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/rasteniya?cd=1"
+              },
+              {
+                "categoryId": 87,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26084,
+                "level": 2,
+                "mcId": 22,
+                "name": "Посуда и товары для кухни",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/posuda_i_tovary_dlya_kuhni?cd=1"
+              }
+            ],
+            "url": "/krasnodar/dlya_doma_i_dachi?cd=1"
+          },
+          {
+            "categoryId": 10,
+            "count": 13,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_10",
+            "id": 30757,
+            "level": 1,
+            "mcId": 17,
+            "name": "Запчасти и аксессуары",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30773,
+                "level": 2,
+                "mcId": 211,
+                "name": "Запчасти",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 18
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/zapchasti-ASgBAgICAUQKJA?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30774,
+                "level": 2,
+                "mcId": 210,
+                "name": "Шины, диски и колёса",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 19
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/shiny_diski_i_kolesa-ASgBAgICAUQKJg?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30775,
+                "level": 2,
+                "mcId": 209,
+                "name": "Аудио- и видеотехника",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 20
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/audio-_i_videotehnika-ASgBAgICAUQKKA?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30776,
+                "level": 2,
+                "mcId": 206,
+                "name": "Аксессуары",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 4943
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/aksessuary-ASgBAgICAUQKnk0?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30777,
+                "level": 2,
+                "mcId": 208,
+                "name": "Тюнинг",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 22
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/tyuning-ASgBAgICAUQKLA?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30778,
+                "level": 2,
+                "mcId": 201,
+                "name": "Багажники и фаркопы",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 4964
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/bagazhniki_i_farkopy-ASgBAgICAUQKyE0?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30779,
+                "level": 2,
+                "mcId": 204,
+                "name": "Инструменты",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 4963
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/instrumenty-ASgBAgICAUQKxk0?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30780,
+                "level": 2,
+                "mcId": 200,
+                "name": "Прицепы",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 4965
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/pritsepy-ASgBAgICAUQKyk0?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30781,
+                "level": 2,
+                "mcId": 203,
+                "name": "Экипировка",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 6416
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/ekipirovka-ASgBAgICAUQKoGQ?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30782,
+                "level": 2,
+                "mcId": 207,
+                "name": "Масла и автохимия",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 4942
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya-ASgBAgICAUQKnE0?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30783,
+                "level": 2,
+                "mcId": 205,
+                "name": "Противоугонные устройства",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 4944
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/protivougonnye_ustroystva-ASgBAgICAUQKoE0?cd=1"
+              },
+              {
+                "categoryId": 10,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 30784,
+                "level": 2,
+                "mcId": 202,
+                "name": "GPS-навигаторы",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "5": 21
+                },
+                "subs": [],
+                "url": "/krasnodar/zapchasti_i_aksessuary/gps-navigatory-ASgBAgICAUQKKg?cd=1"
+              }
+            ],
+            "url": "/krasnodar/zapchasti_i_aksessuary?cd=1"
+          },
+          {
+            "categoryId": 6,
+            "count": 10,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_6",
+            "id": 26195,
+            "level": 1,
+            "mcId": 7,
+            "name": "Электроника",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 84,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26249,
+                "level": 2,
+                "mcId": 49,
+                "name": "Телефоны",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/telefony?cd=1"
+              },
+              {
+                "categoryId": 32,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26196,
+                "level": 2,
+                "mcId": 43,
+                "name": "Аудио и видео",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/audio_i_video?cd=1"
+              },
+              {
+                "categoryId": 101,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26292,
+                "level": 2,
+                "mcId": 42,
+                "name": "Товары для компьютера",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/tovary_dlya_kompyutera?cd=1"
+              },
+              {
+                "categoryId": 97,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26216,
+                "level": 2,
+                "mcId": 44,
+                "name": "Игры, приставки и программы",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/igry_pristavki_i_programmy?cd=1"
+              },
+              {
+                "categoryId": 98,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26222,
+                "level": 2,
+                "mcId": 46,
+                "name": "Ноутбуки",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/noutbuki?cd=1"
+              },
+              {
+                "categoryId": 31,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26221,
+                "level": 2,
+                "mcId": 45,
+                "name": "Настольные компьютеры",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/nastolnye_kompyutery?cd=1"
+              },
+              {
+                "categoryId": 105,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26209,
+                "level": 2,
+                "mcId": 50,
+                "name": "Фототехника",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/fototehnika?cd=1"
+              },
+              {
+                "categoryId": 96,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26236,
+                "level": 2,
+                "mcId": 48,
+                "name": "Планшеты и электронные книги",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/planshety_i_elektronnye_knigi?cd=1"
+              },
+              {
+                "categoryId": 99,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26223,
+                "level": 2,
+                "mcId": 47,
+                "name": "Оргтехника и расходники",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/orgtehnika_i_rashodniki?cd=1"
+              }
+            ],
+            "url": "/krasnodar/bytovaya_elektronika?cd=1"
+          },
+          {
+            "categoryId": 7,
+            "count": 8,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_7",
+            "id": 26315,
+            "level": 1,
+            "mcId": 8,
+            "name": "Хобби и отдых",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 33,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26316,
+                "level": 2,
+                "mcId": 51,
+                "name": "Билеты и путешествия",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/bilety_i_puteshestviya?cd=1"
+              },
+              {
+                "categoryId": 34,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26339,
+                "level": 2,
+                "mcId": 53,
+                "name": "Велосипеды",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/velosipedy?cd=1"
+              },
+              {
+                "categoryId": 83,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26345,
+                "level": 2,
+                "mcId": 54,
+                "name": "Книги и журналы",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/knigi_i_zhurnaly?cd=1"
+              },
+              {
+                "categoryId": 36,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26349,
+                "level": 2,
+                "mcId": 55,
+                "name": "Коллекционирование",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/kollektsionirovanie?cd=1"
+              },
+              {
+                "categoryId": 38,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26373,
+                "level": 2,
+                "mcId": 52,
+                "name": "Музыкальные инструменты",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/muzykalnye_instrumenty?cd=1"
+              },
+              {
+                "categoryId": 102,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26324,
+                "level": 2,
+                "mcId": 56,
+                "name": "Охота и рыбалка",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/ohota_i_rybalka?cd=1"
+              },
+              {
+                "categoryId": 39,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26325,
+                "level": 2,
+                "mcId": 57,
+                "name": "Спорт и отдых",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/sport_i_otdyh?cd=1"
+              }
+            ],
+            "url": "/krasnodar/hobbi_i_otdyh?cd=1"
+          },
+          {
+            "categoryId": 35,
+            "count": 7,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_35",
+            "id": 26098,
+            "level": 1,
+            "mcId": 4,
+            "name": "Животные",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 89,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26099,
+                "level": 2,
+                "mcId": 24,
+                "name": "Собаки",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/sobaki?cd=1"
+              },
+              {
+                "categoryId": 90,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26100,
+                "level": 2,
+                "mcId": 25,
+                "name": "Кошки",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/koshki?cd=1"
+              },
+              {
+                "categoryId": 91,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26101,
+                "level": 2,
+                "mcId": 26,
+                "name": "Птицы",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/ptitsy?cd=1"
+              },
+              {
+                "categoryId": 92,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26102,
+                "level": 2,
+                "mcId": 27,
+                "name": "Аквариум",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/akvarium?cd=1"
+              },
+              {
+                "categoryId": 93,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26103,
+                "level": 2,
+                "mcId": 28,
+                "name": "Другие животные",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/drugie_zhivotnye?cd=1"
+              },
+              {
+                "categoryId": 94,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26112,
+                "level": 2,
+                "mcId": 29,
+                "name": "Товары для животных",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/tovary_dlya_zhivotnyh?cd=1"
+              }
+            ],
+            "url": "/krasnodar/zhivotnye?cd=1"
+          },
+          {
+            "categoryId": 8,
+            "count": 4,
+            "current": false,
+            "currentParent": false,
+            "iconUrl": "cat_8",
+            "id": 26382,
+            "level": 1,
+            "mcId": 9,
+            "name": "Бизнес и оборудование",
+            "nofollow": false,
+            "opened": false,
+            "params": {},
+            "subs": [
+              {
+                "categoryId": 40,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26393,
+                "level": 2,
+                "mcId": 60,
+                "name": "Оборудование для бизнеса",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/oborudovanie_dlya_biznesa?cd=1"
+              },
+              {
+                "categoryId": 116,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 82435,
+                "level": 2,
+                "mcId": 2179494,
+                "name": "Франшизы",
+                "nofollow": false,
+                "opened": false,
+                "params": {
+                  "820": 3267940
+                },
+                "subs": [],
+                "url": "/krasnodar/gotoviy_biznes/franshizy-ASgBAgICAUToDMj1jgM?cd=1"
+              },
+              {
+                "categoryId": 116,
+                "count": 1,
+                "current": false,
+                "currentParent": false,
+                "id": 26383,
+                "level": 2,
+                "mcId": 59,
+                "name": "Готовый бизнес",
+                "nofollow": false,
+                "opened": false,
+                "params": {},
+                "subs": [],
+                "url": "/krasnodar/gotoviy_biznes?cd=1"
+              }
+            ],
+            "url": "/krasnodar/dlya_biznesa?cd=1"
+          }
+        ],
+        "changeLocation": {
+          "geoRichTitle": {
+            "attributes": {
+              "districts": {
+                "type": "attributes",
+                "value": {
+                  "list": [
+                    {
+                      "style": null,
+                      "type": "fontColor",
+                      "value": "#757575",
+                      "valueName": "gray54"
+                    }
+                  ],
+                  "title": "район"
+                }
+              },
+              "location": {
+                "type": "attributes",
+                "value": {
+                  "list": [
+                    {
+                      "style": null,
+                      "type": "fontColor",
+                      "value": "#000000",
+                      "valueName": "black"
+                    }
+                  ],
+                  "title": "Краснодар"
+                }
+              }
+            },
+            "text": "{{location}}, {{districts}}"
+          }
+        },
+        "features": {}
+      }
+    },
+    "searchHash": "wjd6116jux5gk5tjjws1oqlw2qrkj31",
+    "seller": {
+      "avatar": {
+        "defaultUrl": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4oC9OgBdFjI2lr0gwrC9OuKCvSg.PS8Fya89ZR5ADKbm1vVCuimbfyg1ljUG3aFZYXOzdEY",
+        "images": {
+          "100x100": "https://30.img.avito.st/image/1/1.AaGOB7a1u0jwpWdLgBdFjI2lr0gwrGdL8KWvSg.rseMl_aPDtin9CJUCQ9Zu26qUNm9jeIKEiAcUjRqKdU",
+          "1024x1024": "https://30.img.avito.st/image/1/1.AaGOB7atu0i4tC9agBdFjI2lr0o.EJf_2hpTFfUHuwEYzNK1H-0Xi-S7KMr8ewMS5kWkEh8",
+          "128x128": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4pi9IgBdFjI2lr0gwrC9IuKavSg.KHb1a8Ea9lR2qu3JtAr6l786GqDwvCuYmBGtMLzV_sI",
+          "132x132": "https://30.img.avito.st/image/1/1.AaGOB7a1u0iwpidIgBdFjI2lr0gwrCdIsKavSg.Nj15lXqmP-CFBRrDQxAdJQHVB2oqY-ONU9Gh8daSTQo",
+          "176x176": "https://30.img.avito.st/image/1/1.AaGOB7a1u0jYpk9IgBdFjI2lr0gwrE9I2KavSg.JM6mcBt7UfEkYZ7iflXFc0ux91RF_kwTNapS_9pOWaU",
+          "192x192": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4py9JgBdFjI2lr0gwrC9JuKevSg.LJNd5DrATNJL_UAauWu9M1gMfiZjGOe0J6KC77gluzg",
+          "256x256": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4oC9OgBdFjI2lr0gwrC9OuKCvSg.PS8Fya89ZR5ADKbm1vVCuimbfyg1ljUG3aFZYXOzdEY",
+          "25x25": "https://30.img.avito.st/image/1/1.AaGOB7axu0gKlhf50mIaSzimp0IKlq9K.KXR_Dc7qCJlpDKeEWHZ_7IUvGLPMN_jFXuKHueO5tDQ",
+          "50x50": "https://30.img.avito.st/image/1/1.AaGOB7axu0hcwBf50mIaSzimp0JcwK9K.WDHgtQaG17z5l4gIBRbz4MCCwB2Q3bRNseoAgIVevCM",
+          "64x64": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4pS9LgBdFjI2lr0gwrC9LuKWvSg.nhALuh_o3SnNPc_tvrnC67K54LY2ESIQbDIqBws0AeU",
+          "96x96": "https://30.img.avito.st/image/1/1.AaGOB7a1u0j4pW9LgBdFjI2lr0gwrG9L-KWvSg.xy8qZkjUY1CJvSeT7susTR1qD3qS6M6HwuK3lXu9yOY"
+        },
+        "shape": "circle"
+      },
+      "isCompany": false,
+      "labels": {
+        "dative": "арендодателю",
+        "dativeForNote": "арендодателю",
+        "genitive": "арендодателя",
+        "nominative": "Арендодатель",
+        "phoneNote": "Он защищает арендодателя от нежелательных звонков.Не сохраняйте его: скоро телефон заменится на другой. Автор объявления не получит смс и сообщения в мессенджерах на этот номер, но вы можете написать ему на Авито."
+      },
+      "logoSrc": null,
+      "manager": null,
+      "name": "Виталий",
+      "replyTimeText": "Отвечает за несколько часов",
+      "shopLogoUrl": "https://30.img.avito.st/image/1/1.AaGOB7a1u0i4oC9OgBdFjI2lr0gwrC9OuKCvSg.PS8Fya89ZR5ADKbm1vVCuimbfyg1ljUG3aFZYXOzdEY",
+      "shopUrl": "",
+      "tenureMedal": "silver",
+      "tenureSince": "января 2022"
+    },
+    "seoCanonicalUrl": null,
+    "seoDescription": "Дом 60 м² на участке 6,5 сот. сдаётся в Краснодаре. Объявление в Краснодаре на Авито. 🚩🚩ОБРАТИТЕ ВНИМАНИЕ 🚩 В ДОМЕ ТОЛЬКО ДВА СПАЛЬНЫХ МЕСТА ( диван). Сдаётся очень уютный дом с камином для проведения камерных мероприятий. Свидания, свадьбы, девичники, дни рождения, фотосессии, гендерпати ,или просто выехать из квартиры. Подышать свежим воздухом,пожарить мясо на гриле, погреться у камина, попить чай из самовара. Стоимость аренды зависит от количества гостей и дня недели. Аренда для двоих в будние дни 8000 рублей, в пят., суб.,воскр. и праздничные дни 10000 рублей. За каждого последующего гостя...",
+    "seoTitle": "Дом 60 м² на участке 6,5 сот. в аренду в Краснодаре | Снять дом в Краснодаре | Авито",
+    "servicesApplicationFilling": null,
+    "servicesImv": null,
+    "servicesModelCardInfo": {
+      "displayType": "",
+      "entities": [],
+      "galleryItem": null,
+      "id": 0,
+      "link": "",
+      "linkTitle": "",
+      "modelId": 0,
+      "title": "",
+      "url": "",
+      "vendorId": 0
+    },
+    "shouldAddLog": false,
+    "shouldShowAdsPriceBanner": true,
+    "shouldShowGeoBeforeParams": false,
+    "shouldShowLeasing": false,
+    "shouldShowMortgageBroker": false,
+    "toggles": {
+      "adsMonitoringSdkTime": true,
+      "advTargetTimeSecond": false,
+      "authorizedReviews": false,
+      "feedBackPopup": false
+    },
+    "userHashedId": "f1b144c1b8c12b44aa4be2dcd5dcb05d",
+    "viewStat": {
+      "todayViews": 142,
+      "totalViews": 51627
+    },
+    "weborama": {
+      "body_type": 0,
+      "carb": 0,
+      "g_country": 621540,
+      "g_reg": 632660,
+      "item_property": [
+        457660, 457652, 2308921, 5786, 0, 457650, 457654, 10908, 0, 1065, 5477,
+        1714459, 15294, 457659, 5739, 446874
+      ],
+      "master_category": 4,
+      "slave_category": 25
+    },
+    "hasAvitoPro": false
+  }
+}

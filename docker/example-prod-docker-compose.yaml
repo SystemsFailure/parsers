@@ -1,0 +1,51 @@
+version: '3'
+services:
+  crm-parser-avito:
+    build:
+      context: ../
+    env_file:
+      - ../.env
+    environment:
+      - APP=avito
+    volumes:
+      - ./logs/avito:/app/logs
+
+  crm-parser-cian:
+    build:
+      context: ../
+    env_file:
+      - ../.env
+    environment:
+      - APP=cian
+    volumes:
+      - ./logs/cian:/app/logs
+
+  crm-parser-domria:
+    build:
+      context: ../
+    env_file:
+      - ../.env
+    environment:
+      - APP=domria
+    volumes:
+      - ./logs/domria:/app/logs
+
+  crm-parser-olx:
+    build:
+      context: ../
+    env_file:
+      - ../.env
+    environment:
+      - APP=olx
+    volumes:
+      - ./logs/olx:/app/logs
+
+  crm-parser-youla:
+    build:
+      context: ../
+    env_file:
+      - ../.env
+    environment:
+      - APP=youla
+    volumes:
+      - ./logs/youla:/app/logs
